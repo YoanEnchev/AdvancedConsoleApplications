@@ -1,0 +1,4 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\Lab_DataTypes-NumeralTypesAndTypeConversion\Problem04_Elevator\bin\Debug\Problem04_Elevator.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\Lab_DataTypes-NumeralTypesAndTypeConversion\Problem04_Elevator\bin\Debug\Problem04_Elevator.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\Lab_DataTypes-NumeralTypesAndTypeConversion\Problem04_Elevator\obj\Debug\Problem04_Elevator.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\Lab_DataTypes-NumeralTypesAndTypeConversion\Problem04_Elevator\obj\Debug\Problem04_Elevator.pdb

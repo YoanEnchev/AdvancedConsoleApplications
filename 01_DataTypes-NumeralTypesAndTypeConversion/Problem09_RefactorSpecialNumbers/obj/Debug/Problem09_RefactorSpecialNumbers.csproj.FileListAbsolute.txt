@@ -1,0 +1,5 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lab_DataTypes-NumeralTypesAndTypeConversion\Problem09_RefactorSpecialNumbers\bin\Debug\Problem09_RefactorSpecialNumbers.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lab_DataTypes-NumeralTypesAndTypeConversion\Problem09_RefactorSpecialNumbers\bin\Debug\Problem09_RefactorSpecialNumbers.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lab_DataTypes-NumeralTypesAndTypeConversion\Problem09_RefactorSpecialNumbers\obj\Debug\Problem09_RefactorSpecialNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lab_DataTypes-NumeralTypesAndTypeConversion\Problem09_RefactorSpecialNumbers\obj\Debug\Problem09_RefactorSpecialNumbers.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lab_DataTypes-NumeralTypesAndTypeConversion\Problem09_RefactorSpecialNumbers\obj\Debug\Problem09_RefactorSpecialNumbers.pdb

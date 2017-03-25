@@ -1,0 +1,4 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lab_DataTypes-NumeralTypesAndTypeConversion\Problem08_ReactorVolumeOfPyramid\bin\Debug\Problem08_ReactorVolumeOfPyramid.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lab_DataTypes-NumeralTypesAndTypeConversion\Problem08_ReactorVolumeOfPyramid\bin\Debug\Problem08_ReactorVolumeOfPyramid.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lab_DataTypes-NumeralTypesAndTypeConversion\Problem08_ReactorVolumeOfPyramid\obj\Debug\Problem08_ReactorVolumeOfPyramid.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lab_DataTypes-NumeralTypesAndTypeConversion\Problem08_ReactorVolumeOfPyramid\obj\Debug\Problem08_ReactorVolumeOfPyramid.pdb

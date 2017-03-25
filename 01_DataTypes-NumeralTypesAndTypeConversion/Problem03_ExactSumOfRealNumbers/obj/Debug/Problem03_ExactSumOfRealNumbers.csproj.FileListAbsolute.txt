@@ -1,0 +1,4 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\Lab_DataTypes-NumeralTypesAndTypeConversion\Problem03_ExactSumOfRealNumbers\bin\Debug\Problem03_ExactSumOfRealNumbers.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\Lab_DataTypes-NumeralTypesAndTypeConversion\Problem03_ExactSumOfRealNumbers\bin\Debug\Problem03_ExactSumOfRealNumbers.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\Lab_DataTypes-NumeralTypesAndTypeConversion\Problem03_ExactSumOfRealNumbers\obj\Debug\Problem03_ExactSumOfRealNumbers.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\Lab_DataTypes-NumeralTypesAndTypeConversion\Problem03_ExactSumOfRealNumbers\obj\Debug\Problem03_ExactSumOfRealNumbers.pdb

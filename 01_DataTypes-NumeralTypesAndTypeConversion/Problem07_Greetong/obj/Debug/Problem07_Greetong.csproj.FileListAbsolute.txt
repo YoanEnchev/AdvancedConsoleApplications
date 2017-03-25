@@ -1,0 +1,4 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lab_DataTypes-NumeralTypesAndTypeConversion\Problem07_Greetong\bin\Debug\Problem07_Greetong.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lab_DataTypes-NumeralTypesAndTypeConversion\Problem07_Greetong\bin\Debug\Problem07_Greetong.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lab_DataTypes-NumeralTypesAndTypeConversion\Problem07_Greetong\obj\Debug\Problem07_Greetong.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lab_DataTypes-NumeralTypesAndTypeConversion\Problem07_Greetong\obj\Debug\Problem07_Greetong.pdb

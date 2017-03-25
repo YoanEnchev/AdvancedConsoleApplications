@@ -1,0 +1,4 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\Lab_DataTypes-NumeralTypesAndTypeConversion\Problem02_CircleArea-12DigitPrecision\bin\Debug\Problem02_CircleArea-12DigitPrecision.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\Lab_DataTypes-NumeralTypesAndTypeConversion\Problem02_CircleArea-12DigitPrecision\bin\Debug\Problem02_CircleArea-12DigitPrecision.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\Lab_DataTypes-NumeralTypesAndTypeConversion\Problem02_CircleArea-12DigitPrecision\obj\Debug\Problem02_CircleArea-12DigitPrecision.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\Lab_DataTypes-NumeralTypesAndTypeConversion\Problem02_CircleArea-12DigitPrecision\obj\Debug\Problem02_CircleArea-12DigitPrecision.pdb

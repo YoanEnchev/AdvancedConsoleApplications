@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\Lab_DataTypes-NumeralTypesAndTypeConversion\Problem01_TimeSinceBirthday\bin\Debug\Problem01_TimeSinceBirthday.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\Lab_DataTypes-NumeralTypesAndTypeConversion\Problem01_TimeSinceBirthday\bin\Debug\Problem01_TimeSinceBirthday.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\Lab_DataTypes-NumeralTypesAndTypeConversion\Problem01_TimeSinceBirthday\obj\Debug\Problem01_TimeSinceBirthday.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\Lab_DataTypes-NumeralTypesAndTypeConversion\Problem01_TimeSinceBirthday\obj\Debug\Problem01_TimeSinceBirthday.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\Lab_DataTypes-NumeralTypesAndTypeConversion\Problem01_TimeSinceBirthday\obj\Debug\Problem01_TimeSinceBirthday.pdb
