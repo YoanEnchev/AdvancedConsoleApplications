@@ -1,0 +1,6 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\DebuggingAndTroubleshootingCode\Problem02_DebugTriangleFormations\bin\Debug\Problem02_DebugTriangleFormations.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\DebuggingAndTroubleshootingCode\Problem02_DebugTriangleFormations\bin\Debug\Problem02_DebugTriangleFormations.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\DebuggingAndTroubleshootingCode\Problem02_DebugTriangleFormations\obj\Debug\Problem02_DebugTriangleFormations.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\DebuggingAndTroubleshootingCode\Problem02_DebugTriangleFormations\obj\Debug\Problem02_DebugTriangleFormations.pdb
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\06_Debugging\Problem02_DebugTriangleFormations\obj\Debug\Problem02_DebugTriangleFormations.exe
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\06_Debugging\Problem02_DebugTriangleFormations\obj\Debug\Problem02_DebugTriangleFormations.pdb

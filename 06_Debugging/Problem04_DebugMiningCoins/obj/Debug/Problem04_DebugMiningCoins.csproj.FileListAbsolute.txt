@@ -1,0 +1,7 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\DebuggingAndTroubleshootingCode\Problem04_DebugMiningCoins\bin\Debug\Problem04_DebugMiningCoins.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\DebuggingAndTroubleshootingCode\Problem04_DebugMiningCoins\bin\Debug\Problem04_DebugMiningCoins.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\DebuggingAndTroubleshootingCode\Problem04_DebugMiningCoins\obj\Debug\Problem04_DebugMiningCoins.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\DebuggingAndTroubleshootingCode\Problem04_DebugMiningCoins\obj\Debug\Problem04_DebugMiningCoins.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\DebuggingAndTroubleshootingCode\Problem04_DebugMiningCoins\obj\Debug\Problem04_DebugMiningCoins.pdb
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\06_Debugging\Problem04_DebugMiningCoins\obj\Debug\Problem04_DebugMiningCoins.exe
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\06_Debugging\Problem04_DebugMiningCoins\obj\Debug\Problem04_DebugMiningCoins.pdb

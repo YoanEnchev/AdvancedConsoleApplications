@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem01_MultiplyEvensByOdds", "Lab_DebuggingAndTroubleshootingCode\Problem01_MultiplyEvensByOdds.csproj", "{6A60CBFA-6EF1-443F-A03C-402C2C869850}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem02_DebugHolidaysBetweenTwoDates", "Problem02_DebugHolidaysBetweenTwoDates\Problem02_DebugHolidaysBetweenTwoDates.csproj", "{6A44F435-362F-45A2-A360-C13410FFAA81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem03_DebugPriceChangeAlert", "Problem03_DebugPriceChangeAlert\Problem03_DebugPriceChangeAlert.csproj", "{C33DFBAE-9B5E-4F50-8AC2-8127B48299F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A60CBFA-6EF1-443F-A03C-402C2C869850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A60CBFA-6EF1-443F-A03C-402C2C869850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A60CBFA-6EF1-443F-A03C-402C2C869850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A60CBFA-6EF1-443F-A03C-402C2C869850}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A44F435-362F-45A2-A360-C13410FFAA81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A44F435-362F-45A2-A360-C13410FFAA81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A44F435-362F-45A2-A360-C13410FFAA81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A44F435-362F-45A2-A360-C13410FFAA81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C33DFBAE-9B5E-4F50-8AC2-8127B48299F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C33DFBAE-9B5E-4F50-8AC2-8127B48299F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C33DFBAE-9B5E-4F50-8AC2-8127B48299F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C33DFBAE-9B5E-4F50-8AC2-8127B48299F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\DebuggingAndTroubleshootingCode\Problem0\bin\Debug\Problem0.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\DebuggingAndTroubleshootingCode\Problem0\bin\Debug\Problem0.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\DebuggingAndTroubleshootingCode\Problem0\obj\Debug\Problem03_DebugTetris.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\DebuggingAndTroubleshootingCode\Problem0\obj\Debug\Problem0.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\DebuggingAndTroubleshootingCode\Problem0\obj\Debug\Problem0.pdb
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\06_Debugging\Problem0\obj\Debug\Problem0.exe
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\06_Debugging\Problem0\obj\Debug\Problem0.pdb

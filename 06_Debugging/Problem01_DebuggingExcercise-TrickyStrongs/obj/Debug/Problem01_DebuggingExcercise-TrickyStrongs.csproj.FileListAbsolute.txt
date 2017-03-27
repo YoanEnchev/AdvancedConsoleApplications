@@ -1,0 +1,7 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\DebuggingAndTroubleshootingCode\DebuggingAndTroubleshootingCode\bin\Debug\DebuggingAndTroubleshootingCode.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\DebuggingAndTroubleshootingCode\DebuggingAndTroubleshootingCode\bin\Debug\DebuggingAndTroubleshootingCode.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\DebuggingAndTroubleshootingCode\DebuggingAndTroubleshootingCode\obj\Debug\Problem01_DebuggingExcercise-TrickyStrongs.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\DebuggingAndTroubleshootingCode\DebuggingAndTroubleshootingCode\obj\Debug\DebuggingAndTroubleshootingCode.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\DebuggingAndTroubleshootingCode\DebuggingAndTroubleshootingCode\obj\Debug\DebuggingAndTroubleshootingCode.pdb
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\06_Debugging\DebuggingAndTroubleshootingCode\obj\Debug\DebuggingAndTroubleshootingCode.exe
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\06_Debugging\DebuggingAndTroubleshootingCode\obj\Debug\DebuggingAndTroubleshootingCode.pdb
