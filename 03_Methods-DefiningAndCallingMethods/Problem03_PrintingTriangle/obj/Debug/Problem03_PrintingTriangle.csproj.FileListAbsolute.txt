@@ -1,0 +1,7 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lab_Methods-DefiningAndCallingMethods\Problem03_PrintingTriangle\bin\Debug\Problem03_PrintingTriangle.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lab_Methods-DefiningAndCallingMethods\Problem03_PrintingTriangle\bin\Debug\Problem03_PrintingTriangle.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lab_Methods-DefiningAndCallingMethods\Problem03_PrintingTriangle\obj\Debug\Problem03_PrintingTriangle.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lab_Methods-DefiningAndCallingMethods\Problem03_PrintingTriangle\obj\Debug\Problem03_PrintingTriangle.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lab_Methods-DefiningAndCallingMethods\Problem03_PrintingTriangle\obj\Debug\Problem03_PrintingTriangle.pdb
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\03_Methods-DefiningAndCallingMethods\Problem03_PrintingTriangle\obj\Debug\Problem03_PrintingTriangle.exe
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\03_Methods-DefiningAndCallingMethods\Problem03_PrintingTriangle\obj\Debug\Problem03_PrintingTriangle.pdb

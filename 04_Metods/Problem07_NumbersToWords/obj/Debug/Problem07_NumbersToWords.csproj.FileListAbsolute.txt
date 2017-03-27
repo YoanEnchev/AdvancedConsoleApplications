@@ -1,0 +1,7 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Metods\Problem07_NumbersToWords\bin\Debug\Problem07_NumbersToWords.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Metods\Problem07_NumbersToWords\bin\Debug\Problem07_NumbersToWords.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Metods\Problem07_NumbersToWords\obj\Debug\Problem07_NumbersToWords.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Metods\Problem07_NumbersToWords\obj\Debug\Problem07_NumbersToWords.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Metods\Problem07_NumbersToWords\obj\Debug\Problem07_NumbersToWords.pdb
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\04_Metods\Problem07_NumbersToWords\obj\Debug\Problem07_NumbersToWords.exe
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\04_Metods\Problem07_NumbersToWords\obj\Debug\Problem07_NumbersToWords.pdb

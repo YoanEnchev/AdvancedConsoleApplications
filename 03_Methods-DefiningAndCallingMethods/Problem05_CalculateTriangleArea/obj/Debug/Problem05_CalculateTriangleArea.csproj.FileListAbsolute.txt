@@ -1,0 +1,7 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lab_Methods-DefiningAndCallingMethods\Problem05_CalculateTriangleArea\bin\Debug\Problem05_CalculateTriangleArea.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lab_Methods-DefiningAndCallingMethods\Problem05_CalculateTriangleArea\bin\Debug\Problem05_CalculateTriangleArea.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lab_Methods-DefiningAndCallingMethods\Problem05_CalculateTriangleArea\obj\Debug\Problem05_CalculateTriangleArea.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lab_Methods-DefiningAndCallingMethods\Problem05_CalculateTriangleArea\obj\Debug\Problem05_CalculateTriangleArea.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lab_Methods-DefiningAndCallingMethods\Problem05_CalculateTriangleArea\obj\Debug\Problem05_CalculateTriangleArea.pdb
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\03_Methods-DefiningAndCallingMethods\Problem05_CalculateTriangleArea\obj\Debug\Problem05_CalculateTriangleArea.exe
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\03_Methods-DefiningAndCallingMethods\Problem05_CalculateTriangleArea\obj\Debug\Problem05_CalculateTriangleArea.pdb

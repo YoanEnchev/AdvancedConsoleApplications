@@ -1,0 +1,7 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Metods\Problem08_StringEncryption\bin\Debug\Problem08_StringEncryption.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Metods\Problem08_StringEncryption\bin\Debug\Problem08_StringEncryption.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Metods\Problem08_StringEncryption\obj\Debug\Problem08_StringEncryption.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Metods\Problem08_StringEncryption\obj\Debug\Problem08_StringEncryption.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Metods\Problem08_StringEncryption\obj\Debug\Problem08_StringEncryption.pdb
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\04_Metods\Problem08_StringEncryption\obj\Debug\Problem08_StringEncryption.exe
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\04_Metods\Problem08_StringEncryption\obj\Debug\Problem08_StringEncryption.pdb

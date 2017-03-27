@@ -1,0 +1,7 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lab_Methods-DefiningAndCallingMethods\Problem06_MathPower\bin\Debug\Problem06_MathPower.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lab_Methods-DefiningAndCallingMethods\Problem06_MathPower\bin\Debug\Problem06_MathPower.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lab_Methods-DefiningAndCallingMethods\Problem06_MathPower\obj\Debug\Problem06_MathPower.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lab_Methods-DefiningAndCallingMethods\Problem06_MathPower\obj\Debug\Problem06_MathPower.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lab_Methods-DefiningAndCallingMethods\Problem06_MathPower\obj\Debug\Problem06_MathPower.pdb
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\03_Methods-DefiningAndCallingMethods\Problem06_MathPower\obj\Debug\Problem06_MathPower.exe
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\03_Methods-DefiningAndCallingMethods\Problem06_MathPower\obj\Debug\Problem06_MathPower.pdb

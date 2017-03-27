@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\Lab_Methods-DefiningAndCallingMethods\Lab_Methods-DefiningAndCallingMethods\bin\Debug\Lab_Methods-DefiningAndCallingMethods.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\Lab_Methods-DefiningAndCallingMethods\Lab_Methods-DefiningAndCallingMethods\bin\Debug\Lab_Methods-DefiningAndCallingMethods.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\Lab_Methods-DefiningAndCallingMethods\Lab_Methods-DefiningAndCallingMethods\obj\Debug\Problem01_BlankReceipt.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\Lab_Methods-DefiningAndCallingMethods\Lab_Methods-DefiningAndCallingMethods\obj\Debug\Lab_Methods-DefiningAndCallingMethods.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\Lab_Methods-DefiningAndCallingMethods\Lab_Methods-DefiningAndCallingMethods\obj\Debug\Lab_Methods-DefiningAndCallingMethods.pdb
