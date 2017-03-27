@@ -1,0 +1,7 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\DataTypesAndVariables\Problem04_FloatOrInteger\bin\Debug\Problem04_FloatOrInteger.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\DataTypesAndVariables\Problem04_FloatOrInteger\bin\Debug\Problem04_FloatOrInteger.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\DataTypesAndVariables\Problem04_FloatOrInteger\obj\Debug\Problem04_FloatOrInteger.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\DataTypesAndVariables\Problem04_FloatOrInteger\obj\Debug\Problem04_FloatOrInteger.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\DataTypesAndVariables\Problem04_FloatOrInteger\obj\Debug\Problem04_FloatOrInteger.pdb
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\02_DataTypesAndVariables\Problem04_FloatOrInteger\obj\Debug\Problem04_FloatOrInteger.exe
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\02_DataTypesAndVariables\Problem04_FloatOrInteger\obj\Debug\Problem04_FloatOrInteger.pdb

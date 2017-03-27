@@ -1,0 +1,6 @@
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\DataTypesAndVariables\Problem15_Calculator\bin\Debug\Problem15_Calculator.exe
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\DataTypesAndVariables\Problem15_Calculator\bin\Debug\Problem15_Calculator.pdb
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\DataTypesAndVariables\Problem15_Calculator\obj\Debug\Problem15_Calculator.exe
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\DataTypesAndVariables\Problem15_Calculator\obj\Debug\Problem15_Calculator.pdb
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\02_DataTypesAndVariables\Problem15_Calculator\obj\Debug\Problem15_Calculator.exe
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\02_DataTypesAndVariables\Problem15_Calculator\obj\Debug\Problem15_Calculator.pdb

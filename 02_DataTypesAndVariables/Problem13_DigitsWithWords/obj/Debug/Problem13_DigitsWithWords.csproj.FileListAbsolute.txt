@@ -1,0 +1,6 @@
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\DataTypesAndVariables\Problem13_DigitsWithWords\bin\Debug\Problem13_DigitsWithWords.exe
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\DataTypesAndVariables\Problem13_DigitsWithWords\bin\Debug\Problem13_DigitsWithWords.pdb
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\DataTypesAndVariables\Problem13_DigitsWithWords\obj\Debug\Problem13_DigitsWithWords.exe
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\DataTypesAndVariables\Problem13_DigitsWithWords\obj\Debug\Problem13_DigitsWithWords.pdb
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\02_DataTypesAndVariables\Problem13_DigitsWithWords\obj\Debug\Problem13_DigitsWithWords.exe
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\02_DataTypesAndVariables\Problem13_DigitsWithWords\obj\Debug\Problem13_DigitsWithWords.pdb

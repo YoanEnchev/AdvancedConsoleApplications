@@ -1,0 +1,6 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\DataTypesAndVariables\Problem05_DistanceOfTheStars\bin\Debug\Problem05_DistanceOfTheStars.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\DataTypesAndVariables\Problem05_DistanceOfTheStars\bin\Debug\Problem05_DistanceOfTheStars.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\DataTypesAndVariables\Problem05_DistanceOfTheStars\obj\Debug\Problem05_DistanceOfTheStars.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\DataTypesAndVariables\Problem05_DistanceOfTheStars\obj\Debug\Problem05_DistanceOfTheStars.pdb
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\02_DataTypesAndVariables\Problem05_DistanceOfTheStars\obj\Debug\Problem05_DistanceOfTheStars.exe
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\02_DataTypesAndVariables\Problem05_DistanceOfTheStars\obj\Debug\Problem05_DistanceOfTheStars.pdb

@@ -1,0 +1,6 @@
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\DataTypesAndVariables\Problem16_TrickyStrings\bin\Debug\Problem16_TrickyStrings.exe
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\DataTypesAndVariables\Problem16_TrickyStrings\bin\Debug\Problem16_TrickyStrings.pdb
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\DataTypesAndVariables\Problem16_TrickyStrings\obj\Debug\Problem16_TrickyStrings.exe
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\DataTypesAndVariables\Problem16_TrickyStrings\obj\Debug\Problem16_TrickyStrings.pdb
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\02_DataTypesAndVariables\Problem16_TrickyStrings\obj\Debug\Problem16_TrickyStrings.exe
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\02_DataTypesAndVariables\Problem16_TrickyStrings\obj\Debug\Problem16_TrickyStrings.pdb

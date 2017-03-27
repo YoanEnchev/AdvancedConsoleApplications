@@ -1,0 +1,7 @@
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\DataTypesAndVariables\Problem14_ASCIIString\bin\Debug\Problem14_ASCIIString.exe
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\DataTypesAndVariables\Problem14_ASCIIString\bin\Debug\Problem14_ASCIIString.pdb
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\DataTypesAndVariables\Problem14_ASCIIString\obj\Debug\Problem14_ASCIIString.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\DataTypesAndVariables\Problem14_ASCIIString\obj\Debug\Problem14_ASCIIString.exe
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\DataTypesAndVariables\Problem14_ASCIIString\obj\Debug\Problem14_ASCIIString.pdb
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\02_DataTypesAndVariables\Problem14_ASCIIString\obj\Debug\Problem14_ASCIIString.exe
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\02_DataTypesAndVariables\Problem14_ASCIIString\obj\Debug\Problem14_ASCIIString.pdb

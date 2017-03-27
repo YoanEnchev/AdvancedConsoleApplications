@@ -1,0 +1,6 @@
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\DataTypesAndVariables\Problem12_VariableInHexadecimalFormat\bin\Debug\Problem12_VariableInHexadecimalFormat.exe
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\DataTypesAndVariables\Problem12_VariableInHexadecimalFormat\bin\Debug\Problem12_VariableInHexadecimalFormat.pdb
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\DataTypesAndVariables\Problem12_VariableInHexadecimalFormat\obj\Debug\Problem12_VariableInHexadecimalFormat.exe
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\DataTypesAndVariables\Problem12_VariableInHexadecimalFormat\obj\Debug\Problem12_VariableInHexadecimalFormat.pdb
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\02_DataTypesAndVariables\Problem12_VariableInHexadecimalFormat\obj\Debug\Problem12_VariableInHexadecimalFormat.exe
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\02_DataTypesAndVariables\Problem12_VariableInHexadecimalFormat\obj\Debug\Problem12_VariableInHexadecimalFormat.pdb

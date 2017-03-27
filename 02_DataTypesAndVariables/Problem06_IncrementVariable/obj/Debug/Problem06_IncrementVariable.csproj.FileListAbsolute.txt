@@ -1,0 +1,6 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\DataTypesAndVariables\Problem06_IncrementVariable\bin\Debug\Problem06_IncrementVariable.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\DataTypesAndVariables\Problem06_IncrementVariable\bin\Debug\Problem06_IncrementVariable.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\DataTypesAndVariables\Problem06_IncrementVariable\obj\Debug\Problem06_IncrementVariable.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\DataTypesAndVariables\Problem06_IncrementVariable\obj\Debug\Problem06_IncrementVariable.pdb
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\02_DataTypesAndVariables\Problem06_IncrementVariable\obj\Debug\Problem06_IncrementVariable.exe
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\02_DataTypesAndVariables\Problem06_IncrementVariable\obj\Debug\Problem06_IncrementVariable.pdb

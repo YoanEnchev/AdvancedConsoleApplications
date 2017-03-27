@@ -1,0 +1,7 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\DataTypesAndVariables\Problem09_TriangleFormations\bin\Debug\Problem09_TriangleFormations.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\DataTypesAndVariables\Problem09_TriangleFormations\bin\Debug\Problem09_TriangleFormations.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\DataTypesAndVariables\Problem09_TriangleFormations\obj\Debug\Problem09_TriangleFormations.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\DataTypesAndVariables\Problem09_TriangleFormations\obj\Debug\Problem09_TriangleFormations.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\DataTypesAndVariables\Problem09_TriangleFormations\obj\Debug\Problem09_TriangleFormations.pdb
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\02_DataTypesAndVariables\Problem09_TriangleFormations\obj\Debug\Problem09_TriangleFormations.exe
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\02_DataTypesAndVariables\Problem09_TriangleFormations\obj\Debug\Problem09_TriangleFormations.pdb
