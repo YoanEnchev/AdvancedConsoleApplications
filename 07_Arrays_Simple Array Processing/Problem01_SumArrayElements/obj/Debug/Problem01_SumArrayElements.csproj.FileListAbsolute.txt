@@ -1,0 +1,7 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\Arrays_Simple Array Processing\Arrays_Simple Array Processing\bin\Debug\Arrays_Simple Array Processing.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\Arrays_Simple Array Processing\Arrays_Simple Array Processing\bin\Debug\Arrays_Simple Array Processing.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\Arrays_Simple Array Processing\Arrays_Simple Array Processing\obj\Debug\Problem01_SumArrayElements.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\Arrays_Simple Array Processing\Arrays_Simple Array Processing\obj\Debug\Arrays_Simple Array Processing.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\Arrays_Simple Array Processing\Arrays_Simple Array Processing\obj\Debug\Arrays_Simple Array Processing.pdb
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\07_Arrays_Simple Array Processing\Arrays_Simple Array Processing\obj\Debug\Arrays_Simple Array Processing.exe
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\07_Arrays_Simple Array Processing\Arrays_Simple Array Processing\obj\Debug\Arrays_Simple Array Processing.pdb

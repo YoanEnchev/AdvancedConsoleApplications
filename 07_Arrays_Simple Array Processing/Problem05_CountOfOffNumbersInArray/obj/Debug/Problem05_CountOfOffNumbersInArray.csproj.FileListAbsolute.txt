@@ -1,0 +1,6 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Arrays_Simple Array Processing\Problem05_CountOfOffNumbersInArray\bin\Debug\Problem05_CountOfOffNumbersInArray.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Arrays_Simple Array Processing\Problem05_CountOfOffNumbersInArray\bin\Debug\Problem05_CountOfOffNumbersInArray.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Arrays_Simple Array Processing\Problem05_CountOfOffNumbersInArray\obj\Debug\Problem05_CountOfOffNumbersInArray.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Arrays_Simple Array Processing\Problem05_CountOfOffNumbersInArray\obj\Debug\Problem05_CountOfOffNumbersInArray.pdb
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\07_Arrays_Simple Array Processing\Problem05_CountOfOffNumbersInArray\obj\Debug\Problem05_CountOfOffNumbersInArray.exe
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\07_Arrays_Simple Array Processing\Problem05_CountOfOffNumbersInArray\obj\Debug\Problem05_CountOfOffNumbersInArray.pdb
