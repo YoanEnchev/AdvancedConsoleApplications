@@ -1,0 +1,5 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\08_SimpleArraysExercises\Problem10_BalisticTraining\bin\Debug\Problem10_BalisticTraining.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\08_SimpleArraysExercises\Problem10_BalisticTraining\bin\Debug\Problem10_BalisticTraining.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\08_SimpleArraysExercises\Problem10_BalisticTraining\obj\Debug\Problem10_BallisticTraining.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\08_SimpleArraysExercises\Problem10_BalisticTraining\obj\Debug\Problem10_BalisticTraining.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\08_SimpleArraysExercises\Problem10_BalisticTraining\obj\Debug\Problem10_BalisticTraining.pdb

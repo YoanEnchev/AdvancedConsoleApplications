@@ -1,0 +1,4 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\08_SimpleArraysExercises\Problem06_EqualSequenceOfElementsInArray\bin\Debug\Problem06_EqualSequenceOfElementsInArray.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\08_SimpleArraysExercises\Problem06_EqualSequenceOfElementsInArray\bin\Debug\Problem06_EqualSequenceOfElementsInArray.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\08_SimpleArraysExercises\Problem06_EqualSequenceOfElementsInArray\obj\Debug\Problem06_EqualSequenceOfElementsInArray.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\08_SimpleArraysExercises\Problem06_EqualSequenceOfElementsInArray\obj\Debug\Problem06_EqualSequenceOfElementsInArray.pdb

@@ -1,0 +1,4 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\08_SimpleArraysExercises\Problem02_CountOfNegativeElementsInArray\bin\Debug\Problem02_CountOfNegativeElementsInArray.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\08_SimpleArraysExercises\Problem02_CountOfNegativeElementsInArray\bin\Debug\Problem02_CountOfNegativeElementsInArray.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\08_SimpleArraysExercises\Problem02_CountOfNegativeElementsInArray\obj\Debug\Problem02_CountOfNegativeElementsInArray.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\08_SimpleArraysExercises\Problem02_CountOfNegativeElementsInArray\obj\Debug\Problem02_CountOfNegativeElementsInArray.pdb

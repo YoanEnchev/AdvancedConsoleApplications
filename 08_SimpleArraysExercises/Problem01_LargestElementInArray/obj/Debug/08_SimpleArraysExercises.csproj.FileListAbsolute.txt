@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\08_SimpleArraysExercises\08_SimpleArraysExercises\bin\Debug\08_SimpleArraysExercises.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\08_SimpleArraysExercises\08_SimpleArraysExercises\bin\Debug\08_SimpleArraysExercises.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\08_SimpleArraysExercises\08_SimpleArraysExercises\obj\Debug\08_SimpleArraysExercises.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\08_SimpleArraysExercises\08_SimpleArraysExercises\obj\Debug\08_SimpleArraysExercises.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\08_SimpleArraysExercises\08_SimpleArraysExercises\obj\Debug\08_SimpleArraysExercises.pdb

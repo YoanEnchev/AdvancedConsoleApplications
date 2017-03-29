@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\08_SimpleArraysExercises\Problem08_ArraySymmetry\bin\Debug\Problem08_ArraySymmetry.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\08_SimpleArraysExercises\Problem08_ArraySymmetry\bin\Debug\Problem08_ArraySymmetry.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\08_SimpleArraysExercises\Problem08_ArraySymmetry\obj\Debug\Problem08_ArraySymmetry.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\08_SimpleArraysExercises\Problem08_ArraySymmetry\obj\Debug\Problem08_ArraySymmetry.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\08_SimpleArraysExercises\Problem08_ArraySymmetry\obj\Debug\Problem08_ArraySymmetry.pdb

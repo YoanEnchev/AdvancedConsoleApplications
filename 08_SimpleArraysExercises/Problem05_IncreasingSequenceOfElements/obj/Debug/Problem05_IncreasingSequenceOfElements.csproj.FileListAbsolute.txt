@@ -1,0 +1,4 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\08_SimpleArraysExercises\Problem05_IncreasingSequenceOfElements\bin\Debug\Problem05_IncreasingSequenceOfElements.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\08_SimpleArraysExercises\Problem05_IncreasingSequenceOfElements\bin\Debug\Problem05_IncreasingSequenceOfElements.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\08_SimpleArraysExercises\Problem05_IncreasingSequenceOfElements\obj\Debug\Problem05_IncreasingSequenceOfElements.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\08_SimpleArraysExercises\Problem05_IncreasingSequenceOfElements\obj\Debug\Problem05_IncreasingSequenceOfElements.pdb

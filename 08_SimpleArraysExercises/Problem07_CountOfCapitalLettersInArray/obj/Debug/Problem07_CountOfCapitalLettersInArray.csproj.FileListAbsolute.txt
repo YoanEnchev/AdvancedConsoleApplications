@@ -1,0 +1,4 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\08_SimpleArraysExercises\Problem07_CountOfCapitalLettersInArray\bin\Debug\Problem07_CountOfCapitalLettersInArray.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\08_SimpleArraysExercises\Problem07_CountOfCapitalLettersInArray\bin\Debug\Problem07_CountOfCapitalLettersInArray.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\08_SimpleArraysExercises\Problem07_CountOfCapitalLettersInArray\obj\Debug\Problem07_CountOfCapitalLettersInArray.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\08_SimpleArraysExercises\Problem07_CountOfCapitalLettersInArray\obj\Debug\Problem07_CountOfCapitalLettersInArray.pdb

@@ -1,0 +1,4 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\08_SimpleArraysExercises\Problem3_CountOfGivenElementInArray\bin\Debug\Problem3_CountOfGivenElementInArray.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\08_SimpleArraysExercises\Problem3_CountOfGivenElementInArray\bin\Debug\Problem3_CountOfGivenElementInArray.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\08_SimpleArraysExercises\Problem3_CountOfGivenElementInArray\obj\Debug\Problem3_CountOfGivenElementInArray.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\08_SimpleArraysExercises\Problem3_CountOfGivenElementInArray\obj\Debug\Problem3_CountOfGivenElementInArray.pdb

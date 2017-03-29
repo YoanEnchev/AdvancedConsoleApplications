@@ -1,0 +1,2 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\08_SimpleArraysExercises\08_SimpleArraysExercises\obj\Debug\08_SimpleArraysExercises.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\08_SimpleArraysExercises\08_SimpleArraysExercises\obj\Debug\08_SimpleArraysExercises.pdb

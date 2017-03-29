@@ -1,0 +1,7 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Arrays_Simple Array Processing\Problem02_MultiplyAnArrayOfDoubles\bin\Debug\Problem02_MultiplyAnArrayOfDoubles.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Arrays_Simple Array Processing\Problem02_MultiplyAnArrayOfDoubles\bin\Debug\Problem02_MultiplyAnArrayOfDoubles.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Arrays_Simple Array Processing\Problem02_MultiplyAnArrayOfDoubles\obj\Debug\Problem02_MultiplyAnArrayOfDoubles.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Arrays_Simple Array Processing\Problem02_MultiplyAnArrayOfDoubles\obj\Debug\Problem02_MultiplyAnArrayOfDoubles.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Arrays_Simple Array Processing\Problem02_MultiplyAnArrayOfDoubles\obj\Debug\Problem02_MultiplyAnArrayOfDoubles.pdb
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\07_Arrays_Simple Array Processing\Problem02_MultiplyAnArrayOfDoubles\obj\Debug\Problem02_MultiplyAnArrayOfDoubles.exe
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\07_Arrays_Simple Array Processing\Problem02_MultiplyAnArrayOfDoubles\obj\Debug\Problem02_MultiplyAnArrayOfDoubles.pdb

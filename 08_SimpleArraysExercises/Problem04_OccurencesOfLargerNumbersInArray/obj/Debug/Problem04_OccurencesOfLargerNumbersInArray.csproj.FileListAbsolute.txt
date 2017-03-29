@@ -1,0 +1,4 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\08_SimpleArraysExercises\Problem04_OccurencesOfLargerNumbersInArray\bin\Debug\Problem04_OccurencesOfLargerNumbersInArray.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\08_SimpleArraysExercises\Problem04_OccurencesOfLargerNumbersInArray\bin\Debug\Problem04_OccurencesOfLargerNumbersInArray.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\08_SimpleArraysExercises\Problem04_OccurencesOfLargerNumbersInArray\obj\Debug\Problem04_OccurencesOfLargerNumbersInArray.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\08_SimpleArraysExercises\Problem04_OccurencesOfLargerNumbersInArray\obj\Debug\Problem04_OccurencesOfLargerNumbersInArray.pdb
