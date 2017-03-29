@@ -1,6 +1,0 @@
-C:\Users\Joan_1998\documents\visual studio 2015\Projects\Arrays_Simple Array Processing\Problem04_RotateArrayOfStrings\bin\Debug\Problem04_RotateArrayOfStrings.exe
-C:\Users\Joan_1998\documents\visual studio 2015\Projects\Arrays_Simple Array Processing\Problem04_RotateArrayOfStrings\bin\Debug\Problem04_RotateArrayOfStrings.pdb
-C:\Users\Joan_1998\documents\visual studio 2015\Projects\Arrays_Simple Array Processing\Problem04_RotateArrayOfStrings\obj\Debug\Problem04_RotateArrayOfStrings.exe
-C:\Users\Joan_1998\documents\visual studio 2015\Projects\Arrays_Simple Array Processing\Problem04_RotateArrayOfStrings\obj\Debug\Problem04_RotateArrayOfStrings.pdb
-C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\07_Arrays_Simple Array Processing\Problem04_RotateArrayOfStrings\obj\Debug\Problem04_RotateArrayOfStrings.exe
-C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\07_Arrays_Simple Array Processing\Problem04_RotateArrayOfStrings\obj\Debug\Problem04_RotateArrayOfStrings.pdb

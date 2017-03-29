@@ -1,7 +1,0 @@
-C:\Users\Joan_1998\documents\visual studio 2015\Projects\Arrays_Simple Array Processing\Problem06_OddNumbersAtOddPositions\bin\Debug\Problem06_OddNumbersAtOddPositions.exe
-C:\Users\Joan_1998\documents\visual studio 2015\Projects\Arrays_Simple Array Processing\Problem06_OddNumbersAtOddPositions\bin\Debug\Problem06_OddNumbersAtOddPositions.pdb
-C:\Users\Joan_1998\documents\visual studio 2015\Projects\Arrays_Simple Array Processing\Problem06_OddNumbersAtOddPositions\obj\Debug\Problem06_OddNumbersAtOddPositions.csprojResolveAssemblyReference.cache
-C:\Users\Joan_1998\documents\visual studio 2015\Projects\Arrays_Simple Array Processing\Problem06_OddNumbersAtOddPositions\obj\Debug\Problem06_OddNumbersAtOddPositions.exe
-C:\Users\Joan_1998\documents\visual studio 2015\Projects\Arrays_Simple Array Processing\Problem06_OddNumbersAtOddPositions\obj\Debug\Problem06_OddNumbersAtOddPositions.pdb
-C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\07_Arrays_Simple Array Processing\Problem06_OddNumbersAtOddPositions\obj\Debug\Problem06_OddNumbersAtOddPositions.exe
-C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\07_Arrays_Simple Array Processing\Problem06_OddNumbersAtOddPositions\obj\Debug\Problem06_OddNumbersAtOddPositions.pdb
