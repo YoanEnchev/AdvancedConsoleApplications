@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\09_Simple Arrays-More Exercises\09_Simple Arrays-More Exercises\bin\Debug\09_Simple Arrays-More Exercises.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\09_Simple Arrays-More Exercises\09_Simple Arrays-More Exercises\bin\Debug\09_Simple Arrays-More Exercises.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\09_Simple Arrays-More Exercises\09_Simple Arrays-More Exercises\obj\Debug\Problem01_Last3ConsecutiveStrings.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\09_Simple Arrays-More Exercises\09_Simple Arrays-More Exercises\obj\Debug\09_Simple Arrays-More Exercises.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\09_Simple Arrays-More Exercises\09_Simple Arrays-More Exercises\obj\Debug\09_Simple Arrays-More Exercises.pdb

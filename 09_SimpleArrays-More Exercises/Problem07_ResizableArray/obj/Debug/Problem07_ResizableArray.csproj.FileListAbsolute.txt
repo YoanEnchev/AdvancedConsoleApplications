@@ -1,0 +1,5 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\09_Simple Arrays-More Exercises\Problem07_ResizableArray\bin\Debug\Problem07_ResizableArray.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\09_Simple Arrays-More Exercises\Problem07_ResizableArray\bin\Debug\Problem07_ResizableArray.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\09_Simple Arrays-More Exercises\Problem07_ResizableArray\obj\Debug\Problem07_ResizableArray.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\09_Simple Arrays-More Exercises\Problem07_ResizableArray\obj\Debug\Problem07_ResizableArray.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\09_Simple Arrays-More Exercises\Problem07_ResizableArray\obj\Debug\Problem07_ResizableArray.pdb

@@ -1,0 +1,4 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\09_Simple Arrays-More Exercises\Problem02_ArrayElementsEqualToTheirIndex\bin\Debug\Problem02_ArrayElementsEqualToTheirIndex.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\09_Simple Arrays-More Exercises\Problem02_ArrayElementsEqualToTheirIndex\bin\Debug\Problem02_ArrayElementsEqualToTheirIndex.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\09_Simple Arrays-More Exercises\Problem02_ArrayElementsEqualToTheirIndex\obj\Debug\Problem02_ArrayElementsEqualToTheirIndex.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\09_Simple Arrays-More Exercises\Problem02_ArrayElementsEqualToTheirIndex\obj\Debug\Problem02_ArrayElementsEqualToTheirIndex.pdb

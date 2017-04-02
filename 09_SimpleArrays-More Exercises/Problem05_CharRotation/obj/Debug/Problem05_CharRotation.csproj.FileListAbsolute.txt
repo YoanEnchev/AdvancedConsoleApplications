@@ -1,0 +1,5 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\09_Simple Arrays-More Exercises\Problem05_CharRotation\bin\Debug\Problem05_CharRotation.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\09_Simple Arrays-More Exercises\Problem05_CharRotation\bin\Debug\Problem05_CharRotation.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\09_Simple Arrays-More Exercises\Problem05_CharRotation\obj\Debug\Problem05_CharRotation.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\09_Simple Arrays-More Exercises\Problem05_CharRotation\obj\Debug\Problem05_CharRotation.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\09_Simple Arrays-More Exercises\Problem05_CharRotation\obj\Debug\Problem05_CharRotation.pdb
