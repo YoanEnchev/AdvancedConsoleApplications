@@ -1,5 +1,0 @@
-C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\Problem05_SortNumbers\bin\Debug\Problem05_SortNumbers.exe
-C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\Problem05_SortNumbers\bin\Debug\Problem05_SortNumbers.pdb
-C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\Problem05_SortNumbers\obj\Debug\Problem05_SortNumbers.csprojResolveAssemblyReference.cache
-C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\Problem05_SortNumbers\obj\Debug\Problem05_SortNumbers.exe
-C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\Problem05_SortNumbers\obj\Debug\Problem05_SortNumbers.pdb

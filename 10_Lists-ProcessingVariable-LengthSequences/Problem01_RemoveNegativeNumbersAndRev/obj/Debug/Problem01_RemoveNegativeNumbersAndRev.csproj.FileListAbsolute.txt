@@ -1,4 +1,0 @@
-c:\users\joan_1998\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\Problem01_RemoveNegativeNumbersAndRev\bin\Debug\Problem01_RemoveNegativeNumbersAndRev.exe
-c:\users\joan_1998\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\Problem01_RemoveNegativeNumbersAndRev\bin\Debug\Problem01_RemoveNegativeNumbersAndRev.pdb
-c:\users\joan_1998\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\Problem01_RemoveNegativeNumbersAndRev\obj\Debug\Problem01_RemoveNegativeNumbersAndRev.exe
-c:\users\joan_1998\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\Problem01_RemoveNegativeNumbersAndRev\obj\Debug\Problem01_RemoveNegativeNumbersAndRev.pdb
