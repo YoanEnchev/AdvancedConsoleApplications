@@ -3,7 +3,7 @@
 class PowerPlants
 {
     static void Main()
-    { // days yes seasons no
+    {
         string numbers = Console.ReadLine();
         string[] powerOfFlower = numbers.Split(' ');
 
