@@ -1,0 +1,5 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\Problem04_SplitByWordCasing\bin\Debug\Problem04_SplitByWordCasing.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\Problem04_SplitByWordCasing\bin\Debug\Problem04_SplitByWordCasing.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\Problem04_SplitByWordCasing\obj\Debug\Problem04_SplitByWordCasing.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\Problem04_SplitByWordCasing\obj\Debug\Problem04_SplitByWordCasing.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\Problem04_SplitByWordCasing\obj\Debug\Problem04_SplitByWordCasing.pdb

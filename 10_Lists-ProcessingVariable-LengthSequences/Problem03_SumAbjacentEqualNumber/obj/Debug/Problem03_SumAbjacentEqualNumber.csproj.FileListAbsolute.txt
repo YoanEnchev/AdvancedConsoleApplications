@@ -1,0 +1,7 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\Problem03_SumAbjacentEqualNumber\bin\Debug\Problem03_SumAbjacentEqualNumber.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\Problem03_SumAbjacentEqualNumber\bin\Debug\Problem03_SumAbjacentEqualNumber.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\Problem03_SumAbjacentEqualNumber\obj\Debug\Problem03_SumAbjacentEqualNumber.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\Problem03_SumAbjacentEqualNumber\obj\Debug\Problem03_SumAbjacentEqualNumber.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\Problem03_SumAbjacentEqualNumber\obj\Debug\Problem03_SumAbjacentEqualNumber.pdb
+C:\Users\Joan_1998\Desktop\For GitHub\AdvancedConsoleApplications\10_Lists-ProcessingVariable-LengthSequences\Problem03_SumAbjacentEqualNumber\obj\Debug\Problem03_SumAbjacentEqualNumber.exe
+C:\Users\Joan_1998\Desktop\For GitHub\AdvancedConsoleApplications\10_Lists-ProcessingVariable-LengthSequences\Problem03_SumAbjacentEqualNumber\obj\Debug\Problem03_SumAbjacentEqualNumber.pdb

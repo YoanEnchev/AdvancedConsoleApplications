@@ -1,0 +1,10 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\Problem07_CountNumbers\bin\Debug\Problem07_CountNumbers.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\Problem07_CountNumbers\bin\Debug\Problem07_CountNumbers.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\Problem07_CountNumbers\obj\Debug\Problem07_CountNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\Problem07_CountNumbers\obj\Debug\Problem07_CountNumbers.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\Problem07_CountNumbers\obj\Debug\Problem07_CountNumbers.pdb
+C:\Users\Joan_1998\Desktop\For GitHub\AdvancedConsoleApplications\10_Lists-ProcessingVariable-LengthSequences\Problem07_CountNumbers\obj\Debug\Problem07_CountNumbers.exe
+C:\Users\Joan_1998\Desktop\For GitHub\AdvancedConsoleApplications\10_Lists-ProcessingVariable-LengthSequences\Problem07_CountNumbers\obj\Debug\Problem07_CountNumbers.pdb
+C:\Users\Joan_1998\Desktop\For GitHub\AdvancedConsoleApplications\10_Lists-ProcessingVariable-LengthSequences\Problem07_CountNumbers\bin\Debug\Problem07_CountNumbers.exe
+C:\Users\Joan_1998\Desktop\For GitHub\AdvancedConsoleApplications\10_Lists-ProcessingVariable-LengthSequences\Problem07_CountNumbers\bin\Debug\Problem07_CountNumbers.pdb
+C:\Users\Joan_1998\Desktop\For GitHub\AdvancedConsoleApplications\10_Lists-ProcessingVariable-LengthSequences\Problem07_CountNumbers\obj\Debug\Problem07_CountNumbers.csprojResolveAssemblyReference.cache
