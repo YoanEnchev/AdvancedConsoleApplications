@@ -1,0 +1,7 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\Problem02_AppendList\bin\Debug\Problem02_AppendList.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\Problem02_AppendList\bin\Debug\Problem02_AppendList.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\Problem02_AppendList\obj\Debug\Problem02_AppendList.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\Problem02_AppendList\obj\Debug\Problem02_AppendList.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\Lists-ProcessingVariable-LengthSequences\Problem02_AppendList\obj\Debug\Problem02_AppendList.pdb
+C:\Users\Joan_1998\Desktop\For GitHub\AdvancedConsoleApplications\10_Lists-ProcessingVariable-LengthSequences\Problem02_AppendList\obj\Debug\Problem02_AppendList.exe
+C:\Users\Joan_1998\Desktop\For GitHub\AdvancedConsoleApplications\10_Lists-ProcessingVariable-LengthSequences\Problem02_AppendList\obj\Debug\Problem02_AppendList.pdb
