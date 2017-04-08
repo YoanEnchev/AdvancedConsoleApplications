@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\11_LIists_Excercise\Problem03_EqualSumAfterExtraction\bin\Debug\Problem03_EqualSumAfterExtraction.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\11_LIists_Excercise\Problem03_EqualSumAfterExtraction\bin\Debug\Problem03_EqualSumAfterExtraction.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\11_LIists_Excercise\Problem03_EqualSumAfterExtraction\obj\Debug\Problem03_EqualSumAfterExtraction.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\11_LIists_Excercise\Problem03_EqualSumAfterExtraction\obj\Debug\Problem03_EqualSumAfterExtraction.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\11_LIists_Excercise\Problem03_EqualSumAfterExtraction\obj\Debug\Problem03_EqualSumAfterExtraction.pdb

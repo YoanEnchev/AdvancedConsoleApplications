@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\11_LIists_Excercise\Problem04_FlipListSides\bin\Debug\Problem04_FlipListSides.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\11_LIists_Excercise\Problem04_FlipListSides\bin\Debug\Problem04_FlipListSides.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\11_LIists_Excercise\Problem04_FlipListSides\obj\Debug\Problem04_FlipListSides.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\11_LIists_Excercise\Problem04_FlipListSides\obj\Debug\Problem04_FlipListSides.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\11_LIists_Excercise\Problem04_FlipListSides\obj\Debug\Problem04_FlipListSides.pdb

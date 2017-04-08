@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\11_LIists_Excercise\Problem01_RemoveElementsAtOddPosition\bin\Debug\Problem01_RemoveElementsAtOddPosition.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\11_LIists_Excercise\Problem01_RemoveElementsAtOddPosition\bin\Debug\Problem01_RemoveElementsAtOddPosition.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\11_LIists_Excercise\Problem01_RemoveElementsAtOddPosition\obj\Debug\Problem01_RemoveElementsAtOddPosition.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\11_LIists_Excercise\Problem01_RemoveElementsAtOddPosition\obj\Debug\Problem01_RemoveElementsAtOddPosition.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\11_LIists_Excercise\Problem01_RemoveElementsAtOddPosition\obj\Debug\Problem01_RemoveElementsAtOddPosition.pdb

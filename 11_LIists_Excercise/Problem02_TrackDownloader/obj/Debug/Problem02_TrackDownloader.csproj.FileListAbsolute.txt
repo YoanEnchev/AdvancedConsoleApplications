@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\11_LIists_Excercise\Problem02_TrackDownloader\bin\Debug\Problem02_TrackDownloader.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\11_LIists_Excercise\Problem02_TrackDownloader\bin\Debug\Problem02_TrackDownloader.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\11_LIists_Excercise\Problem02_TrackDownloader\obj\Debug\Problem02_TrackDownloader.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\11_LIists_Excercise\Problem02_TrackDownloader\obj\Debug\Problem02_TrackDownloader.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\11_LIists_Excercise\Problem02_TrackDownloader\obj\Debug\Problem02_TrackDownloader.pdb

@@ -1,0 +1,5 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\11_LIists_Excercise\Problem06_StuckZipper\bin\Debug\Problem06_StuckZipper.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\11_LIists_Excercise\Problem06_StuckZipper\bin\Debug\Problem06_StuckZipper.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\11_LIists_Excercise\Problem06_StuckZipper\obj\Debug\Problem06_StuckZipper.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\11_LIists_Excercise\Problem06_StuckZipper\obj\Debug\Problem06_StuckZipper.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\11_LIists_Excercise\Problem06_StuckZipper\obj\Debug\Problem06_StuckZipper.pdb
