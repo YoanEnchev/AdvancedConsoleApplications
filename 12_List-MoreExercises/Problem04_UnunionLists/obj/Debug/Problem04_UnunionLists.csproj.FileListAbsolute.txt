@@ -1,0 +1,5 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Problem01_DistinctList\Problem04_UnunionLists\bin\Debug\Problem04_UnunionLists.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Problem01_DistinctList\Problem04_UnunionLists\bin\Debug\Problem04_UnunionLists.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Problem01_DistinctList\Problem04_UnunionLists\obj\Debug\Problem04_UnunionLists.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Problem01_DistinctList\Problem04_UnunionLists\obj\Debug\Problem04_UnunionLists.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Problem01_DistinctList\Problem04_UnunionLists\obj\Debug\Problem04_UnunionLists.pdb

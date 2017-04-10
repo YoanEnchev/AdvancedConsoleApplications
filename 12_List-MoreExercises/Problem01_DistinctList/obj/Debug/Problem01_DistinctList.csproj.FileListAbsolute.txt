@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\Problem01_DistinctList\12_List-MoreExercises\bin\Debug\12_List-MoreExercises.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\Problem01_DistinctList\12_List-MoreExercises\bin\Debug\12_List-MoreExercises.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\Problem01_DistinctList\12_List-MoreExercises\obj\Debug\Problem01_DistinctList.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\Problem01_DistinctList\12_List-MoreExercises\obj\Debug\12_List-MoreExercises.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\Problem01_DistinctList\12_List-MoreExercises\obj\Debug\12_List-MoreExercises.pdb

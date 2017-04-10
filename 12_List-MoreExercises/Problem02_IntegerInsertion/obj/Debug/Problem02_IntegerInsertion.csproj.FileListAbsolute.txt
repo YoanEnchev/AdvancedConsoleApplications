@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\Problem01_DistinctList\Problem02_IntegerInsertion\bin\Debug\Problem02_IntegerInsertion.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\Problem01_DistinctList\Problem02_IntegerInsertion\bin\Debug\Problem02_IntegerInsertion.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\Problem01_DistinctList\Problem02_IntegerInsertion\obj\Debug\Problem02_IntegerInsertion.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\Problem01_DistinctList\Problem02_IntegerInsertion\obj\Debug\Problem02_IntegerInsertion.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\Problem01_DistinctList\Problem02_IntegerInsertion\obj\Debug\Problem02_IntegerInsertion.pdb

@@ -1,0 +1,5 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Problem01_DistinctList\Problem03_Camel'sBack\bin\Debug\Problem03_Camel'sBack.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Problem01_DistinctList\Problem03_Camel'sBack\bin\Debug\Problem03_Camel'sBack.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Problem01_DistinctList\Problem03_Camel'sBack\obj\Debug\Problem03_Camel'sBack.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Problem01_DistinctList\Problem03_Camel'sBack\obj\Debug\Problem03_Camel'sBack.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Problem01_DistinctList\Problem03_Camel'sBack\obj\Debug\Problem03_Camel'sBack.pdb
