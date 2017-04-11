@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\12_ArrayAndListAlgoritms\Problem02_SmallestNumberInArray\bin\Debug\Problem02_SmallestNumberInArray.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\12_ArrayAndListAlgoritms\Problem02_SmallestNumberInArray\bin\Debug\Problem02_SmallestNumberInArray.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\12_ArrayAndListAlgoritms\Problem02_SmallestNumberInArray\obj\Debug\Problem02_SmallestNumberInArray.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\12_ArrayAndListAlgoritms\Problem02_SmallestNumberInArray\obj\Debug\Problem02_SmallestNumberInArray.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\12_ArrayAndListAlgoritms\Problem02_SmallestNumberInArray\obj\Debug\Problem02_SmallestNumberInArray.pdb

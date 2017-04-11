@@ -1,0 +1,5 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\12_ArrayAndListAlgoritms\Problem07_LargestNElements\bin\Debug\Problem07_LargestNElements.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\12_ArrayAndListAlgoritms\Problem07_LargestNElements\bin\Debug\Problem07_LargestNElements.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\12_ArrayAndListAlgoritms\Problem07_LargestNElements\obj\Debug\Problem07_LargestNElements.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\12_ArrayAndListAlgoritms\Problem07_LargestNElements\obj\Debug\Problem07_LargestNElements.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\12_ArrayAndListAlgoritms\Problem07_LargestNElements\obj\Debug\Problem07_LargestNElements.pdb

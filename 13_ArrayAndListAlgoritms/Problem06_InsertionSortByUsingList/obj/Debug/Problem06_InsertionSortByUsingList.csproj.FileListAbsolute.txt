@@ -1,0 +1,5 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\12_ArrayAndListAlgoritms\Problem06_InsertionSortByUsingList\bin\Debug\Problem06_InsertionSortByUsingList.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\12_ArrayAndListAlgoritms\Problem06_InsertionSortByUsingList\bin\Debug\Problem06_InsertionSortByUsingList.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\12_ArrayAndListAlgoritms\Problem06_InsertionSortByUsingList\obj\Debug\Problem06_InsertionSortByUsingList.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\12_ArrayAndListAlgoritms\Problem06_InsertionSortByUsingList\obj\Debug\Problem06_InsertionSortByUsingList.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\12_ArrayAndListAlgoritms\Problem06_InsertionSortByUsingList\obj\Debug\Problem06_InsertionSortByUsingList.pdb

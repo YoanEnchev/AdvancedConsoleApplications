@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\12_ArrayAndListAlgoritms\Problem04_SortArrayUsingBubbleSort\bin\Debug\Problem04_SortArrayUsingBubbleSort.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\12_ArrayAndListAlgoritms\Problem04_SortArrayUsingBubbleSort\bin\Debug\Problem04_SortArrayUsingBubbleSort.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\12_ArrayAndListAlgoritms\Problem04_SortArrayUsingBubbleSort\obj\Debug\Problem04_SortArrayUsingBubbleSort.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\12_ArrayAndListAlgoritms\Problem04_SortArrayUsingBubbleSort\obj\Debug\Problem04_SortArrayUsingBubbleSort.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\12_ArrayAndListAlgoritms\Problem04_SortArrayUsingBubbleSort\obj\Debug\Problem04_SortArrayUsingBubbleSort.pdb
