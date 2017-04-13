@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\13_ArrayAndListAlgotithms-excercises\Problem01_ShootListElements\bin\Debug\Problem01_ShootListElements.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\13_ArrayAndListAlgotithms-excercises\Problem01_ShootListElements\bin\Debug\Problem01_ShootListElements.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\13_ArrayAndListAlgotithms-excercises\Problem01_ShootListElements\obj\Debug\Problem01_ShootListElements.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\13_ArrayAndListAlgotithms-excercises\Problem01_ShootListElements\obj\Debug\Problem01_ShootListElements.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\13_ArrayAndListAlgotithms-excercises\Problem01_ShootListElements\obj\Debug\Problem01_ShootListElements.pdb

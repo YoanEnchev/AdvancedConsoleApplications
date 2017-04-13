@@ -1,0 +1,5 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\13_ArrayAndListAlgotithms-excercises\Problem04_ArrayHistogram\bin\Debug\Problem04_ArrayHistogram.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\13_ArrayAndListAlgotithms-excercises\Problem04_ArrayHistogram\bin\Debug\Problem04_ArrayHistogram.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\13_ArrayAndListAlgotithms-excercises\Problem04_ArrayHistogram\obj\Debug\Problem04_ArrayHistogram.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\13_ArrayAndListAlgotithms-excercises\Problem04_ArrayHistogram\obj\Debug\Problem04_ArrayHistogram.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\13_ArrayAndListAlgotithms-excercises\Problem04_ArrayHistogram\obj\Debug\Problem04_ArrayHistogram.pdb

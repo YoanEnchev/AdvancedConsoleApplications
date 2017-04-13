@@ -1,0 +1,5 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\13_ArrayAndListAlgotithms-excercises\Problem06_Batteries\bin\Debug\Problem06_Batteries.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\13_ArrayAndListAlgotithms-excercises\Problem06_Batteries\bin\Debug\Problem06_Batteries.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\13_ArrayAndListAlgotithms-excercises\Problem06_Batteries\obj\Debug\Problem06_Batteries.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\13_ArrayAndListAlgotithms-excercises\Problem06_Batteries\obj\Debug\Problem06_Batteries.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\13_ArrayAndListAlgotithms-excercises\Problem06_Batteries\obj\Debug\Problem06_Batteries.pdb
