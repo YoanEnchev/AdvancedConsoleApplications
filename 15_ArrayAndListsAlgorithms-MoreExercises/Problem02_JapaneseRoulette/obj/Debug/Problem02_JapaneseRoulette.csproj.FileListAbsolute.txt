@@ -1,0 +1,5 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\15_ArrayAndListsAlgorithms-MoreExercises\Problem02_JapaneseRoulette\obj\Debug\Problem02_JapaneseRoulette.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\15_ArrayAndListsAlgorithms-MoreExercises\Problem02_JapaneseRoulette\bin\Debug\Problem02_JapaneseRoulette.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\15_ArrayAndListsAlgorithms-MoreExercises\Problem02_JapaneseRoulette\bin\Debug\Problem02_JapaneseRoulette.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\15_ArrayAndListsAlgorithms-MoreExercises\Problem02_JapaneseRoulette\obj\Debug\Problem02_JapaneseRoulette.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\15_ArrayAndListsAlgorithms-MoreExercises\Problem02_JapaneseRoulette\obj\Debug\Problem02_JapaneseRoulette.pdb
