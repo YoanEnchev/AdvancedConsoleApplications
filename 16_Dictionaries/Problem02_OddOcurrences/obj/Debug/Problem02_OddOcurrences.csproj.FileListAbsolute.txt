@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\16_Dictionaries\Problem02_OddOcurrences\bin\Debug\Problem02_OddOcurrences.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\16_Dictionaries\Problem02_OddOcurrences\bin\Debug\Problem02_OddOcurrences.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\16_Dictionaries\Problem02_OddOcurrences\obj\Debug\Problem02_OddOcurrences.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\16_Dictionaries\Problem02_OddOcurrences\obj\Debug\Problem02_OddOcurrences.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\16_Dictionaries\Problem02_OddOcurrences\obj\Debug\Problem02_OddOcurrences.pdb
