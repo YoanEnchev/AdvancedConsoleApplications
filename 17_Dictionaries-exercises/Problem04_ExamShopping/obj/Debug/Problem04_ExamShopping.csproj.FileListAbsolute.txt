@@ -1,0 +1,5 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Dictionaries-exercises\Problem04_ExamShopping\bin\Debug\Problem04_ExamShopping.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Dictionaries-exercises\Problem04_ExamShopping\bin\Debug\Problem04_ExamShopping.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Dictionaries-exercises\Problem04_ExamShopping\obj\Debug\Problem04_ExamShopping.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Dictionaries-exercises\Problem04_ExamShopping\obj\Debug\Problem04_ExamShopping.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Dictionaries-exercises\Problem04_ExamShopping\obj\Debug\Problem04_ExamShopping.pdb

@@ -1,0 +1,5 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Dictionaries-exercises\Problem05_UserLogins\bin\Debug\Problem05_UserLogins.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Dictionaries-exercises\Problem05_UserLogins\bin\Debug\Problem05_UserLogins.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Dictionaries-exercises\Problem05_UserLogins\obj\Debug\Problem05_UserLogins.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Dictionaries-exercises\Problem05_UserLogins\obj\Debug\Problem05_UserLogins.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Dictionaries-exercises\Problem05_UserLogins\obj\Debug\Problem05_UserLogins.pdb

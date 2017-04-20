@@ -1,0 +1,5 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Dictionaries-exercises\Problem06_FilterBase\bin\Debug\Problem06_FilterBase.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Dictionaries-exercises\Problem06_FilterBase\bin\Debug\Problem06_FilterBase.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Dictionaries-exercises\Problem06_FilterBase\obj\Debug\Problem06_FilterBase.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Dictionaries-exercises\Problem06_FilterBase\obj\Debug\Problem06_FilterBase.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Dictionaries-exercises\Problem06_FilterBase\obj\Debug\Problem06_FilterBase.pdb

@@ -1,0 +1,5 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Dictionaries-exercises\Problem0\bin\Debug\Problem0.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Dictionaries-exercises\Problem0\bin\Debug\Problem0.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Dictionaries-exercises\Problem0\obj\Debug\Problem03_MixedPhones.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Dictionaries-exercises\Problem0\obj\Debug\Problem0.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\Dictionaries-exercises\Problem0\obj\Debug\Problem0.pdb

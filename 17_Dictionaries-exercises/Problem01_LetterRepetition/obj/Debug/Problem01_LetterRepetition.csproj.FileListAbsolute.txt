@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\Dictionaries-exercises\Problem01_LetterRepetition\bin\Debug\Problem01_LetterRepetition.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\Dictionaries-exercises\Problem01_LetterRepetition\bin\Debug\Problem01_LetterRepetition.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\Dictionaries-exercises\Problem01_LetterRepetition\obj\Debug\Problem01_LetterRepetition.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\Dictionaries-exercises\Problem01_LetterRepetition\obj\Debug\Problem01_LetterRepetition.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\Dictionaries-exercises\Problem01_LetterRepetition\obj\Debug\Problem01_LetterRepetition.pdb

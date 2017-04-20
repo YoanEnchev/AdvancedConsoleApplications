@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\Dictionaries-exercises\Problem02_DictRef\bin\Debug\Problem02_DictRef.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\Dictionaries-exercises\Problem02_DictRef\bin\Debug\Problem02_DictRef.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\Dictionaries-exercises\Problem02_DictRef\obj\Debug\Problem02_DictRef.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\Dictionaries-exercises\Problem02_DictRef\obj\Debug\Problem02_DictRef.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\Dictionaries-exercises\Problem02_DictRef\obj\Debug\Problem02_DictRef.pdb
