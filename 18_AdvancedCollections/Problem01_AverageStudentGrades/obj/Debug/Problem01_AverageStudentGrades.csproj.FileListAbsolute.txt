@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\18_AdvancedCollections\Problem01_AverageStudentGrades\bin\Debug\Problem01_AverageStudentGrades.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\18_AdvancedCollections\Problem01_AverageStudentGrades\bin\Debug\Problem01_AverageStudentGrades.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\18_AdvancedCollections\Problem01_AverageStudentGrades\obj\Debug\Problem01_AverageStudentGrades.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\18_AdvancedCollections\Problem01_AverageStudentGrades\obj\Debug\Problem01_AverageStudentGrades.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\18_AdvancedCollections\Problem01_AverageStudentGrades\obj\Debug\Problem01_AverageStudentGrades.pdb

@@ -1,0 +1,5 @@
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\18_AdvancedCollections\Problem03_RecordUniqueNames\bin\Debug\Problem03_RecordUniqueNames.exe
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\18_AdvancedCollections\Problem03_RecordUniqueNames\bin\Debug\Problem03_RecordUniqueNames.pdb
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\18_AdvancedCollections\Problem03_RecordUniqueNames\obj\Debug\Problem03_RecordUniqueNames.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\18_AdvancedCollections\Problem03_RecordUniqueNames\obj\Debug\Problem03_RecordUniqueNames.exe
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\18_AdvancedCollections\Problem03_RecordUniqueNames\obj\Debug\Problem03_RecordUniqueNames.pdb

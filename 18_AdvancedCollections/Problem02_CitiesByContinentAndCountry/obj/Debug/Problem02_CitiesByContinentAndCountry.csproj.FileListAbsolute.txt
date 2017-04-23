@@ -1,0 +1,5 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\18_AdvancedCollections\Problem02_CitiesByContinentAndCountry\obj\Debug\Problem02_CitiesByContinentAndCountry.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\18_AdvancedCollections\Problem02_CitiesByContinentAndCountry\bin\Debug\Problem02_CitiesByContinentAndCountry.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\18_AdvancedCollections\Problem02_CitiesByContinentAndCountry\bin\Debug\Problem02_CitiesByContinentAndCountry.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\18_AdvancedCollections\Problem02_CitiesByContinentAndCountry\obj\Debug\Problem02_CitiesByContinentAndCountry.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\18_AdvancedCollections\Problem02_CitiesByContinentAndCountry\obj\Debug\Problem02_CitiesByContinentAndCountry.pdb
