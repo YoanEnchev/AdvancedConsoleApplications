@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\19_AdvancedCollectionsExercises\Problem02_Dict-Ref-Advanced\bin\Debug\Problem02_Dict-Ref-Advanced.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\19_AdvancedCollectionsExercises\Problem02_Dict-Ref-Advanced\bin\Debug\Problem02_Dict-Ref-Advanced.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\19_AdvancedCollectionsExercises\Problem02_Dict-Ref-Advanced\obj\Debug\Problem02_Dict-Ref-Advanced.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\19_AdvancedCollectionsExercises\Problem02_Dict-Ref-Advanced\obj\Debug\Problem02_Dict-Ref-Advanced.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\19_AdvancedCollectionsExercises\Problem02_Dict-Ref-Advanced\obj\Debug\Problem02_Dict-Ref-Advanced.pdb

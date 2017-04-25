@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\19_AdvancedCollectionsExercises\Problem01_Shellbound\bin\Debug\Problem01_Shellbound.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\19_AdvancedCollectionsExercises\Problem01_Shellbound\bin\Debug\Problem01_Shellbound.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\19_AdvancedCollectionsExercises\Problem01_Shellbound\obj\Debug\Problem01_Shellbound.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\19_AdvancedCollectionsExercises\Problem01_Shellbound\obj\Debug\Problem01_Shellbound.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\19_AdvancedCollectionsExercises\Problem01_Shellbound\obj\Debug\Problem01_Shellbound.pdb

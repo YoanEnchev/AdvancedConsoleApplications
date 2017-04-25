@@ -1,0 +1,5 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\19_AdvancedCollectionsExercises\Problem04_SocialMediaPosts\bin\Debug\Problem04_SocialMediaPosts.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\19_AdvancedCollectionsExercises\Problem04_SocialMediaPosts\bin\Debug\Problem04_SocialMediaPosts.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\19_AdvancedCollectionsExercises\Problem04_SocialMediaPosts\obj\Debug\Problem04_SocialMediaPosts.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\19_AdvancedCollectionsExercises\Problem04_SocialMediaPosts\obj\Debug\Problem04_SocialMediaPosts.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\19_AdvancedCollectionsExercises\Problem04_SocialMediaPosts\obj\Debug\Problem04_SocialMediaPosts.pdb

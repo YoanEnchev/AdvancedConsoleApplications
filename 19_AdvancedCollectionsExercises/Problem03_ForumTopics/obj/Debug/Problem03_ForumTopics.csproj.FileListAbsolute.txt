@@ -1,0 +1,5 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\19_AdvancedCollectionsExercises\Problem03_ForumTopics\bin\Debug\Problem03_ForumTopics.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\19_AdvancedCollectionsExercises\Problem03_ForumTopics\bin\Debug\Problem03_ForumTopics.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\19_AdvancedCollectionsExercises\Problem03_ForumTopics\obj\Debug\Problem03_ForumTopics.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\19_AdvancedCollectionsExercises\Problem03_ForumTopics\obj\Debug\Problem03_ForumTopics.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\19_AdvancedCollectionsExercises\Problem03_ForumTopics\obj\Debug\Problem03_ForumTopics.pdb
