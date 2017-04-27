@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\20_LambdaАndLINQ\Problem02_Largest3Numbers\bin\Debug\Problem02_Largest3Numbers.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\20_LambdaАndLINQ\Problem02_Largest3Numbers\bin\Debug\Problem02_Largest3Numbers.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\20_LambdaАndLINQ\Problem02_Largest3Numbers\obj\Debug\Problem02_Largest3Numbers.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\20_LambdaАndLINQ\Problem02_Largest3Numbers\obj\Debug\Problem02_Largest3Numbers.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\20_LambdaАndLINQ\Problem02_Largest3Numbers\obj\Debug\Problem02_Largest3Numbers.pdb

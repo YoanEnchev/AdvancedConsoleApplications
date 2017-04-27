@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\20_LambdaАndLINQ\Problem03_ShortWordsSorted\bin\Debug\Problem03_ShortWordsSorted.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\20_LambdaАndLINQ\Problem03_ShortWordsSorted\bin\Debug\Problem03_ShortWordsSorted.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\20_LambdaАndLINQ\Problem03_ShortWordsSorted\obj\Debug\Problem03_ShortWordsSorted.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\20_LambdaАndLINQ\Problem03_ShortWordsSorted\obj\Debug\Problem03_ShortWordsSorted.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\20_LambdaАndLINQ\Problem03_ShortWordsSorted\obj\Debug\Problem03_ShortWordsSorted.pdb
