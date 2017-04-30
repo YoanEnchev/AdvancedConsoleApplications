@@ -1,0 +1,5 @@
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\21_LambdaAndLINQ-exercises\Problem03_FlattenDictionary\bin\Debug\Problem03_FlattenDictionary.exe
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\21_LambdaAndLINQ-exercises\Problem03_FlattenDictionary\bin\Debug\Problem03_FlattenDictionary.pdb
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\21_LambdaAndLINQ-exercises\Problem03_FlattenDictionary\obj\Debug\Problem03_FlattenDictionary.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\21_LambdaAndLINQ-exercises\Problem03_FlattenDictionary\obj\Debug\Problem03_FlattenDictionary.exe
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\21_LambdaAndLINQ-exercises\Problem03_FlattenDictionary\obj\Debug\Problem03_FlattenDictionary.pdb

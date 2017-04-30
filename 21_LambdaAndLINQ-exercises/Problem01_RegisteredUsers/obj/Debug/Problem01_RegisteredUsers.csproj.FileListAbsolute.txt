@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\21_LambdaAndLINQ-exercises\Problem01_RegisteredUsers\obj\Debug\Problem01_RegisteredUsers.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\21_LambdaAndLINQ-exercises\Problem01_RegisteredUsers\bin\Debug\Problem01_RegisteredUsers.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\21_LambdaAndLINQ-exercises\Problem01_RegisteredUsers\bin\Debug\Problem01_RegisteredUsers.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\21_LambdaAndLINQ-exercises\Problem01_RegisteredUsers\obj\Debug\Problem01_RegisteredUsers.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\21_LambdaAndLINQ-exercises\Problem01_RegisteredUsers\obj\Debug\Problem01_RegisteredUsers.pdb
