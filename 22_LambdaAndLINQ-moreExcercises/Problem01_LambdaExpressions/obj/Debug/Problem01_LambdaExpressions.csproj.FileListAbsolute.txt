@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\22_LambdaAndLINQ-moreExcercises\Problem01_LambdaExpressions\bin\Debug\Problem01_LambdaExpressions.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\22_LambdaAndLINQ-moreExcercises\Problem01_LambdaExpressions\bin\Debug\Problem01_LambdaExpressions.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\22_LambdaAndLINQ-moreExcercises\Problem01_LambdaExpressions\obj\Debug\Problem01_LambdaExpressions.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\22_LambdaAndLINQ-moreExcercises\Problem01_LambdaExpressions\obj\Debug\Problem01_LambdaExpressions.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\22_LambdaAndLINQ-moreExcercises\Problem01_LambdaExpressions\obj\Debug\Problem01_LambdaExpressions.pdb

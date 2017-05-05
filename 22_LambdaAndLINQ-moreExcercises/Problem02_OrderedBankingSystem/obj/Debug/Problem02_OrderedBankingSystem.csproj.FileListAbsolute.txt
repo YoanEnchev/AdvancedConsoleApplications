@@ -1,0 +1,5 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\22_LambdaAndLINQ-moreExcercises\Problem02_OrderedBankingSystem\bin\Debug\Problem02_OrderedBankingSystem.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\22_LambdaAndLINQ-moreExcercises\Problem02_OrderedBankingSystem\bin\Debug\Problem02_OrderedBankingSystem.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\22_LambdaAndLINQ-moreExcercises\Problem02_OrderedBankingSystem\obj\Debug\Problem02_OrderedBankingSystem.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\22_LambdaAndLINQ-moreExcercises\Problem02_OrderedBankingSystem\obj\Debug\Problem02_OrderedBankingSystem.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\22_LambdaAndLINQ-moreExcercises\Problem02_OrderedBankingSystem\obj\Debug\Problem02_OrderedBankingSystem.pdb

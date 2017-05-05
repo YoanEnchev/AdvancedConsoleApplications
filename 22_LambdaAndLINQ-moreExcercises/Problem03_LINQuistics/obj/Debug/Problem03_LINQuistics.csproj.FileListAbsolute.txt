@@ -1,0 +1,5 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\22_LambdaAndLINQ-moreExcercises\Problem03_LINQuistics\bin\Debug\Problem03_LINQuistics.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\22_LambdaAndLINQ-moreExcercises\Problem03_LINQuistics\bin\Debug\Problem03_LINQuistics.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\22_LambdaAndLINQ-moreExcercises\Problem03_LINQuistics\obj\Debug\Problem03_LINQuistics.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\22_LambdaAndLINQ-moreExcercises\Problem03_LINQuistics\obj\Debug\Problem03_LINQuistics.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\22_LambdaAndLINQ-moreExcercises\Problem03_LINQuistics\obj\Debug\Problem03_LINQuistics.pdb
