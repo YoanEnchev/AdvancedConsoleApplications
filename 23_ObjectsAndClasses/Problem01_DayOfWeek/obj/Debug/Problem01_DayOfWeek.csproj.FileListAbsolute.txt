@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\23_ObjectsAndClasses\Problem01_DayOfWeek\bin\Debug\Problem01_DayOfWeek.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\23_ObjectsAndClasses\Problem01_DayOfWeek\bin\Debug\Problem01_DayOfWeek.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\23_ObjectsAndClasses\Problem01_DayOfWeek\obj\Debug\Problem01_DayOfWeek.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\23_ObjectsAndClasses\Problem01_DayOfWeek\obj\Debug\Problem01_DayOfWeek.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\23_ObjectsAndClasses\Problem01_DayOfWeek\obj\Debug\Problem01_DayOfWeek.pdb

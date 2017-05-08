@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\23_ObjectsAndClasses\Problem0\bin\Debug\Problem0.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\23_ObjectsAndClasses\Problem0\bin\Debug\Problem0.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\23_ObjectsAndClasses\Problem0\obj\Debug\Problem03_BigFactorial.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\23_ObjectsAndClasses\Problem0\obj\Debug\Problem0.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\23_ObjectsAndClasses\Problem0\obj\Debug\Problem0.pdb

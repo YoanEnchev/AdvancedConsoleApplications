@@ -1,0 +1,4 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\23_ObjectsAndClasses\Problem02_RandomizeWords\bin\Debug\Problem02_RandomizeWords.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\23_ObjectsAndClasses\Problem02_RandomizeWords\bin\Debug\Problem02_RandomizeWords.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\23_ObjectsAndClasses\Problem02_RandomizeWords\obj\Debug\Problem02_RandomizeWords.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\23_ObjectsAndClasses\Problem02_RandomizeWords\obj\Debug\Problem02_RandomizeWords.pdb

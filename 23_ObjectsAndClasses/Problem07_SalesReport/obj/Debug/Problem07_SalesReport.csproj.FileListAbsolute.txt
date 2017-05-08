@@ -1,0 +1,5 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\23_ObjectsAndClasses\Problem07_SalesReport\bin\Debug\Problem07_SalesReport.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\23_ObjectsAndClasses\Problem07_SalesReport\bin\Debug\Problem07_SalesReport.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\23_ObjectsAndClasses\Problem07_SalesReport\obj\Debug\Problem07_SalesReport.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\23_ObjectsAndClasses\Problem07_SalesReport\obj\Debug\Problem07_SalesReport.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\23_ObjectsAndClasses\Problem07_SalesReport\obj\Debug\Problem07_SalesReport.pdb
