@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\25_FilesDirectoriesAndExceptionss\Problem01_OddLines\bin\Debug\Problem01_OddLines.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\25_FilesDirectoriesAndExceptionss\Problem01_OddLines\bin\Debug\Problem01_OddLines.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\25_FilesDirectoriesAndExceptionss\Problem01_OddLines\obj\Debug\Problem01_OddLines.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\25_FilesDirectoriesAndExceptionss\Problem01_OddLines\obj\Debug\Problem01_OddLines.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\25_FilesDirectoriesAndExceptionss\Problem01_OddLines\obj\Debug\Problem01_OddLines.pdb

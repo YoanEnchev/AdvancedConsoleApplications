@@ -1,0 +1,4 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\25_FilesDirectoriesAndExceptionss\Problem05_FolderSize\bin\Debug\Problem05_FolderSize.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\25_FilesDirectoriesAndExceptionss\Problem05_FolderSize\bin\Debug\Problem05_FolderSize.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\25_FilesDirectoriesAndExceptionss\Problem05_FolderSize\obj\Debug\Problem05_FolderSize.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\25_FilesDirectoriesAndExceptionss\Problem05_FolderSize\obj\Debug\Problem05_FolderSize.pdb

@@ -1,0 +1,5 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\24_ObjectsAndSimpleClasses-exercises\Problem04_Websites\bin\Debug\Problem04_Websites.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\24_ObjectsAndSimpleClasses-exercises\Problem04_Websites\bin\Debug\Problem04_Websites.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\24_ObjectsAndSimpleClasses-exercises\Problem04_Websites\obj\Debug\Problem04_Websites.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\24_ObjectsAndSimpleClasses-exercises\Problem04_Websites\obj\Debug\Problem04_Websites.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\24_ObjectsAndSimpleClasses-exercises\Problem04_Websites\obj\Debug\Problem04_Websites.pdb

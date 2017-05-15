@@ -1,0 +1,4 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\25_FilesDirectoriesAndExceptionss\Problem02_LineNumbers\bin\Debug\Problem02_LineNumbers.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\25_FilesDirectoriesAndExceptionss\Problem02_LineNumbers\bin\Debug\Problem02_LineNumbers.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\25_FilesDirectoriesAndExceptionss\Problem02_LineNumbers\obj\Debug\Problem02_LineNumbers.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\25_FilesDirectoriesAndExceptionss\Problem02_LineNumbers\obj\Debug\Problem02_LineNumbers.pdb

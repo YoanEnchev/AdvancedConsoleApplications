@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\24_ObjectsAndSimpleClasses-exercises\Problem02_OptimizedBankingSystem\bin\Debug\Problem02_OptimizedBankingSystem.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\24_ObjectsAndSimpleClasses-exercises\Problem02_OptimizedBankingSystem\bin\Debug\Problem02_OptimizedBankingSystem.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\24_ObjectsAndSimpleClasses-exercises\Problem02_OptimizedBankingSystem\obj\Debug\Problem02_OptimizedBankingSystem.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\24_ObjectsAndSimpleClasses-exercises\Problem02_OptimizedBankingSystem\obj\Debug\Problem02_OptimizedBankingSystem.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\24_ObjectsAndSimpleClasses-exercises\Problem02_OptimizedBankingSystem\obj\Debug\Problem02_OptimizedBankingSystem.pdb
