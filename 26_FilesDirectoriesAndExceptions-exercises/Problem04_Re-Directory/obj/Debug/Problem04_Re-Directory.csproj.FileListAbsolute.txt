@@ -1,0 +1,5 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\26_FilesDirectoriesAndExceptions-exercises\Problem04_Re-Directory\bin\Debug\Problem04_Re-Directory.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\26_FilesDirectoriesAndExceptions-exercises\Problem04_Re-Directory\bin\Debug\Problem04_Re-Directory.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\26_FilesDirectoriesAndExceptions-exercises\Problem04_Re-Directory\obj\Debug\Problem04_Re-Directory.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\26_FilesDirectoriesAndExceptions-exercises\Problem04_Re-Directory\obj\Debug\Problem04_Re-Directory.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\26_FilesDirectoriesAndExceptions-exercises\Problem04_Re-Directory\obj\Debug\Problem04_Re-Directory.pdb

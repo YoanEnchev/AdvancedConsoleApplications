@@ -1,0 +1,5 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\26_FilesDirectoriesAndExceptions-exercises\Problem05_Products\bin\Debug\Problem05_Products.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\26_FilesDirectoriesAndExceptions-exercises\Problem05_Products\bin\Debug\Problem05_Products.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\26_FilesDirectoriesAndExceptions-exercises\Problem05_Products\obj\Debug\Problem05_Products.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\26_FilesDirectoriesAndExceptions-exercises\Problem05_Products\obj\Debug\Problem05_Products.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\26_FilesDirectoriesAndExceptions-exercises\Problem05_Products\obj\Debug\Problem05_Products.pdb

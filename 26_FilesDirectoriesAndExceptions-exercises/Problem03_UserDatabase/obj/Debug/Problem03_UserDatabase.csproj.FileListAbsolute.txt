@@ -1,0 +1,5 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\26_FilesDirectoriesAndExceptions-exercises\Problem03_UserDatabase\bin\Debug\Problem03_UserDatabase.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\26_FilesDirectoriesAndExceptions-exercises\Problem03_UserDatabase\bin\Debug\Problem03_UserDatabase.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\26_FilesDirectoriesAndExceptions-exercises\Problem03_UserDatabase\obj\Debug\Problem03_UserDatabase.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\26_FilesDirectoriesAndExceptions-exercises\Problem03_UserDatabase\obj\Debug\Problem03_UserDatabase.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\26_FilesDirectoriesAndExceptions-exercises\Problem03_UserDatabase\obj\Debug\Problem03_UserDatabase.pdb

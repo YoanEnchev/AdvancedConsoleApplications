@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\26_FilesDirectoriesAndExceptions-exercises\Problem02_HTMLContents\bin\Debug\Problem02_HTMLContents.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\26_FilesDirectoriesAndExceptions-exercises\Problem02_HTMLContents\bin\Debug\Problem02_HTMLContents.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\26_FilesDirectoriesAndExceptions-exercises\Problem02_HTMLContents\obj\Debug\Problem02_HTMLContents.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\26_FilesDirectoriesAndExceptions-exercises\Problem02_HTMLContents\obj\Debug\Problem02_HTMLContents.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\26_FilesDirectoriesAndExceptions-exercises\Problem02_HTMLContents\obj\Debug\Problem02_HTMLContents.pdb
