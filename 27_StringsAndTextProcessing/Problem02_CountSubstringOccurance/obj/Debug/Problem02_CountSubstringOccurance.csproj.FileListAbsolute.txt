@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\StringsAndTextProcessing\Problem02_CountSubstringOccurance\bin\Debug\Problem02_CountSubstringOccurance.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\StringsAndTextProcessing\Problem02_CountSubstringOccurance\bin\Debug\Problem02_CountSubstringOccurance.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\StringsAndTextProcessing\Problem02_CountSubstringOccurance\obj\Debug\Problem02_CountSubstringOccurance.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\StringsAndTextProcessing\Problem02_CountSubstringOccurance\obj\Debug\Problem02_CountSubstringOccurance.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\StringsAndTextProcessing\Problem02_CountSubstringOccurance\obj\Debug\Problem02_CountSubstringOccurance.pdb

@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\StringsAndTextProcessing\Problem03_TextFilter\bin\Debug\Problem03_TextFilter.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\StringsAndTextProcessing\Problem03_TextFilter\bin\Debug\Problem03_TextFilter.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\StringsAndTextProcessing\Problem03_TextFilter\obj\Debug\Problem03_TextFilter.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\StringsAndTextProcessing\Problem03_TextFilter\obj\Debug\Problem03_TextFilter.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\StringsAndTextProcessing\Problem03_TextFilter\obj\Debug\Problem03_TextFilter.pdb

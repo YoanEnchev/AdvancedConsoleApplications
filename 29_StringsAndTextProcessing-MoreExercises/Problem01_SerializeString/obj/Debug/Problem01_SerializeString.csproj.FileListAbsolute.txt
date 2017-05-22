@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\29_StringsAndTextProcessing-MoreExercises\Problem01_SerializeString\bin\Debug\Problem01_SerializeString.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\29_StringsAndTextProcessing-MoreExercises\Problem01_SerializeString\bin\Debug\Problem01_SerializeString.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\29_StringsAndTextProcessing-MoreExercises\Problem01_SerializeString\obj\Debug\Problem01_SerializeString.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\29_StringsAndTextProcessing-MoreExercises\Problem01_SerializeString\obj\Debug\Problem01_SerializeString.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\29_StringsAndTextProcessing-MoreExercises\Problem01_SerializeString\obj\Debug\Problem01_SerializeString.pdb

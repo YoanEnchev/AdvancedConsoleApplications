@@ -1,0 +1,5 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\29_StringsAndTextProcessing-MoreExercises\Problem04_Nilapdromes\bin\Debug\Problem04_Nilapdromes.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\29_StringsAndTextProcessing-MoreExercises\Problem04_Nilapdromes\bin\Debug\Problem04_Nilapdromes.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\29_StringsAndTextProcessing-MoreExercises\Problem04_Nilapdromes\obj\Debug\Problem04_Nilapdromes.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\29_StringsAndTextProcessing-MoreExercises\Problem04_Nilapdromes\obj\Debug\Problem04_Nilapdromes.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\29_StringsAndTextProcessing-MoreExercises\Problem04_Nilapdromes\obj\Debug\Problem04_Nilapdromes.pdb

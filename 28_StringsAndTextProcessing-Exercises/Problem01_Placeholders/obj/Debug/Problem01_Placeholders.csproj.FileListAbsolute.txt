@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\28_StringsAndTextProcessing-Exercises\Problem01_Placeholders\bin\Debug\Problem01_Placeholders.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\28_StringsAndTextProcessing-Exercises\Problem01_Placeholders\bin\Debug\Problem01_Placeholders.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\28_StringsAndTextProcessing-Exercises\Problem01_Placeholders\obj\Debug\Problem01_Placeholders.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\28_StringsAndTextProcessing-Exercises\Problem01_Placeholders\obj\Debug\Problem01_Placeholders.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\28_StringsAndTextProcessing-Exercises\Problem01_Placeholders\obj\Debug\Problem01_Placeholders.pdb

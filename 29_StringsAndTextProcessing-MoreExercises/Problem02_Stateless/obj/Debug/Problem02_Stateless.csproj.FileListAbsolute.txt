@@ -1,0 +1,5 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\29_StringsAndTextProcessing-MoreExercises\Problem02_Stateless\bin\Debug\Problem02_Stateless.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\29_StringsAndTextProcessing-MoreExercises\Problem02_Stateless\bin\Debug\Problem02_Stateless.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\29_StringsAndTextProcessing-MoreExercises\Problem02_Stateless\obj\Debug\Problem02_Stateless.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\29_StringsAndTextProcessing-MoreExercises\Problem02_Stateless\obj\Debug\Problem02_Stateless.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\29_StringsAndTextProcessing-MoreExercises\Problem02_Stateless\obj\Debug\Problem02_Stateless.pdb

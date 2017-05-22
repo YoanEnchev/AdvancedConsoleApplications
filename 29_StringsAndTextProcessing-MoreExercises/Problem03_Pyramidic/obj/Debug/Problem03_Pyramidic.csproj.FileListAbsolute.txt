@@ -1,0 +1,5 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\29_StringsAndTextProcessing-MoreExercises\Problem03_Pyramidic\bin\Debug\Problem03_Pyramidic.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\29_StringsAndTextProcessing-MoreExercises\Problem03_Pyramidic\bin\Debug\Problem03_Pyramidic.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\29_StringsAndTextProcessing-MoreExercises\Problem03_Pyramidic\obj\Debug\Problem03_Pyramidic.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\29_StringsAndTextProcessing-MoreExercises\Problem03_Pyramidic\obj\Debug\Problem03_Pyramidic.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\29_StringsAndTextProcessing-MoreExercises\Problem03_Pyramidic\obj\Debug\Problem03_Pyramidic.pdb

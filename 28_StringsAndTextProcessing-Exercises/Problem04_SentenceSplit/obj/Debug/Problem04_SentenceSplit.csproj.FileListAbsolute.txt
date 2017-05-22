@@ -1,0 +1,5 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\28_StringsAndTextProcessing-Exercises\Problem04_SentenceSplit\bin\Debug\Problem04_SentenceSplit.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\28_StringsAndTextProcessing-Exercises\Problem04_SentenceSplit\bin\Debug\Problem04_SentenceSplit.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\28_StringsAndTextProcessing-Exercises\Problem04_SentenceSplit\obj\Debug\Problem04_SentenceSplit.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\28_StringsAndTextProcessing-Exercises\Problem04_SentenceSplit\obj\Debug\Problem04_SentenceSplit.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\28_StringsAndTextProcessing-Exercises\Problem04_SentenceSplit\obj\Debug\Problem04_SentenceSplit.pdb

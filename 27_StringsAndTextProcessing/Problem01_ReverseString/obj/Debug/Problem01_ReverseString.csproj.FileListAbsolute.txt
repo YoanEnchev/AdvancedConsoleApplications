@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\StringsAndTextProcessing\Problem01_ReverseString\bin\Debug\Problem01_ReverseString.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\StringsAndTextProcessing\Problem01_ReverseString\bin\Debug\Problem01_ReverseString.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\StringsAndTextProcessing\Problem01_ReverseString\obj\Debug\Problem01_ReverseString.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\StringsAndTextProcessing\Problem01_ReverseString\obj\Debug\Problem01_ReverseString.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\StringsAndTextProcessing\Problem01_ReverseString\obj\Debug\Problem01_ReverseString.pdb

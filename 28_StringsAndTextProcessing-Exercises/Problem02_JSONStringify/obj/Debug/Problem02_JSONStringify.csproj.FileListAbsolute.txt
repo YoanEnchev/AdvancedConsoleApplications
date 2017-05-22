@@ -1,0 +1,5 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\28_StringsAndTextProcessing-Exercises\Problem02_JSONStringify\bin\Debug\Problem02_JSONStringify.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\28_StringsAndTextProcessing-Exercises\Problem02_JSONStringify\bin\Debug\Problem02_JSONStringify.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\28_StringsAndTextProcessing-Exercises\Problem02_JSONStringify\obj\Debug\Problem02_JSONStringify.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\28_StringsAndTextProcessing-Exercises\Problem02_JSONStringify\obj\Debug\Problem02_JSONStringify.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\28_StringsAndTextProcessing-Exercises\Problem02_JSONStringify\obj\Debug\Problem02_JSONStringify.pdb

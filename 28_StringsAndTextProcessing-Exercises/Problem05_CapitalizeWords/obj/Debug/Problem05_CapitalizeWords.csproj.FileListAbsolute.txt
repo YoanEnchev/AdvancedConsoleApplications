@@ -1,0 +1,5 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\28_StringsAndTextProcessing-Exercises\Problem05_CapitalizeWords\bin\Debug\Problem05_CapitalizeWords.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\28_StringsAndTextProcessing-Exercises\Problem05_CapitalizeWords\bin\Debug\Problem05_CapitalizeWords.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\28_StringsAndTextProcessing-Exercises\Problem05_CapitalizeWords\obj\Debug\Problem05_CapitalizeWords.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\28_StringsAndTextProcessing-Exercises\Problem05_CapitalizeWords\obj\Debug\Problem05_CapitalizeWords.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\28_StringsAndTextProcessing-Exercises\Problem05_CapitalizeWords\obj\Debug\Problem05_CapitalizeWords.pdb
