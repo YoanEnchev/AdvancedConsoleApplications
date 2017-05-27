@@ -1,0 +1,5 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\30_RegularExpressions-Exercises\Problem04_HappinessIndex\bin\Debug\Problem04_HappinessIndex.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\30_RegularExpressions-Exercises\Problem04_HappinessIndex\bin\Debug\Problem04_HappinessIndex.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\30_RegularExpressions-Exercises\Problem04_HappinessIndex\obj\Debug\Problem04_HappinessIndex.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\30_RegularExpressions-Exercises\Problem04_HappinessIndex\obj\Debug\Problem04_HappinessIndex.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\30_RegularExpressions-Exercises\Problem04_HappinessIndex\obj\Debug\Problem04_HappinessIndex.pdb

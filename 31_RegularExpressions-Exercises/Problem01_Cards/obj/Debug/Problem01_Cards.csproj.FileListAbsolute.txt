@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\30_RegularExpressions-Exercises\Problem01_Cards\bin\Debug\Problem01_Cards.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\30_RegularExpressions-Exercises\Problem01_Cards\bin\Debug\Problem01_Cards.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\30_RegularExpressions-Exercises\Problem01_Cards\obj\Debug\Problem01_Cards.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\30_RegularExpressions-Exercises\Problem01_Cards\obj\Debug\Problem01_Cards.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\30_RegularExpressions-Exercises\Problem01_Cards\obj\Debug\Problem01_Cards.pdb

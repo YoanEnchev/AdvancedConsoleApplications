@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\30_RegularExpressions\Problem01_MatchFullName\bin\Debug\Problem01_MatchFullName.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\30_RegularExpressions\Problem01_MatchFullName\bin\Debug\Problem01_MatchFullName.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\30_RegularExpressions\Problem01_MatchFullName\obj\Debug\Problem01_MatchFullName.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\30_RegularExpressions\Problem01_MatchFullName\obj\Debug\Problem01_MatchFullName.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\30_RegularExpressions\Problem01_MatchFullName\obj\Debug\Problem01_MatchFullName.pdb

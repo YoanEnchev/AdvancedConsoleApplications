@@ -1,0 +1,5 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\30_RegularExpressions-Exercises\Problem03_WordEncounter\bin\Debug\Problem03_WordEncounter.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\30_RegularExpressions-Exercises\Problem03_WordEncounter\bin\Debug\Problem03_WordEncounter.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\30_RegularExpressions-Exercises\Problem03_WordEncounter\obj\Debug\Problem03_WordEncounter.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\30_RegularExpressions-Exercises\Problem03_WordEncounter\obj\Debug\Problem03_WordEncounter.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\30_RegularExpressions-Exercises\Problem03_WordEncounter\obj\Debug\Problem03_WordEncounter.pdb

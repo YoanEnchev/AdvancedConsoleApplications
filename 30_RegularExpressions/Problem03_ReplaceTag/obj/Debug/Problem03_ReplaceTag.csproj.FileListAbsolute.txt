@@ -1,0 +1,5 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\30_RegularExpressions\Problem03_ReplaceTag\bin\Debug\Problem03_ReplaceTag.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\30_RegularExpressions\Problem03_ReplaceTag\bin\Debug\Problem03_ReplaceTag.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\30_RegularExpressions\Problem03_ReplaceTag\obj\Debug\Problem03_ReplaceTag.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\30_RegularExpressions\Problem03_ReplaceTag\obj\Debug\Problem03_ReplaceTag.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\30_RegularExpressions\Problem03_ReplaceTag\obj\Debug\Problem03_ReplaceTag.pdb

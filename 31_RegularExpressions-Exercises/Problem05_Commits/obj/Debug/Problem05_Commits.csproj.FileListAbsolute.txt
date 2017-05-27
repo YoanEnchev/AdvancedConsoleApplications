@@ -1,0 +1,5 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\30_RegularExpressions-Exercises\Problem05_Commits\bin\Debug\Problem05_Commits.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\30_RegularExpressions-Exercises\Problem05_Commits\bin\Debug\Problem05_Commits.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\30_RegularExpressions-Exercises\Problem05_Commits\obj\Debug\Problem05_Commits.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\30_RegularExpressions-Exercises\Problem05_Commits\obj\Debug\Problem05_Commits.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\30_RegularExpressions-Exercises\Problem05_Commits\obj\Debug\Problem05_Commits.pdb

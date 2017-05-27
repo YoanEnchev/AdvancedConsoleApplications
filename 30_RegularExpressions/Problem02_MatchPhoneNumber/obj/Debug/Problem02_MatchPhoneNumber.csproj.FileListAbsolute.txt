@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\30_RegularExpressions\Problem02_MatchPhoneNumber\bin\Debug\Problem02_MatchPhoneNumber.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\30_RegularExpressions\Problem02_MatchPhoneNumber\bin\Debug\Problem02_MatchPhoneNumber.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\30_RegularExpressions\Problem02_MatchPhoneNumber\obj\Debug\Problem02_MatchPhoneNumber.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\30_RegularExpressions\Problem02_MatchPhoneNumber\obj\Debug\Problem02_MatchPhoneNumber.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\30_RegularExpressions\Problem02_MatchPhoneNumber\obj\Debug\Problem02_MatchPhoneNumber.pdb
