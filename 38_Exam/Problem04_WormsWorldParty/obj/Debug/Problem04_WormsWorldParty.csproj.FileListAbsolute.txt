@@ -1,0 +1,5 @@
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\38_Exam\Problem04_WormsWorldParty\bin\Debug\Problem04_WormsWorldParty.exe
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\38_Exam\Problem04_WormsWorldParty\bin\Debug\Problem04_WormsWorldParty.pdb
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\38_Exam\Problem04_WormsWorldParty\obj\Debug\Problem04_WormsWorldParty.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\38_Exam\Problem04_WormsWorldParty\obj\Debug\Problem04_WormsWorldParty.exe
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\38_Exam\Problem04_WormsWorldParty\obj\Debug\Problem04_WormsWorldParty.pdb

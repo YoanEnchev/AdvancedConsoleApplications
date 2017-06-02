@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\38_Exam\Problem02_WormIpsum\obj\Debug\Problem02_WormIpsum.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\38_Exam\Problem02_WormIpsum\bin\Debug\Problem02_WormIpsum.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\38_Exam\Problem02_WormIpsum\bin\Debug\Problem02_WormIpsum.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\38_Exam\Problem02_WormIpsum\obj\Debug\Problem02_WormIpsum.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\38_Exam\Problem02_WormIpsum\obj\Debug\Problem02_WormIpsum.pdb

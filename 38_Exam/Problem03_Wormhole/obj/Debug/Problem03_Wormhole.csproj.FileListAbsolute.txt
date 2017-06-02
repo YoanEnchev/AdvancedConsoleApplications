@@ -1,0 +1,5 @@
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\38_Exam\Problem03_Wormhole\bin\Debug\Problem03_Wormhole.exe
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\38_Exam\Problem03_Wormhole\bin\Debug\Problem03_Wormhole.pdb
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\38_Exam\Problem03_Wormhole\obj\Debug\Problem03_Wormhole.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\38_Exam\Problem03_Wormhole\obj\Debug\Problem03_Wormhole.exe
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\38_Exam\Problem03_Wormhole\obj\Debug\Problem03_Wormhole.pdb
