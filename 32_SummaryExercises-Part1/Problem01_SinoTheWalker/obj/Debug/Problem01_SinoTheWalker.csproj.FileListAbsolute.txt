@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\32_SummaryExercises-Part1\Problem01_SinoTheWalker\bin\Debug\Problem01_SinoTheWalker.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\32_SummaryExercises-Part1\Problem01_SinoTheWalker\bin\Debug\Problem01_SinoTheWalker.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\32_SummaryExercises-Part1\Problem01_SinoTheWalker\obj\Debug\Problem01_SinoTheWalker.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\32_SummaryExercises-Part1\Problem01_SinoTheWalker\obj\Debug\Problem01_SinoTheWalker.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\32_SummaryExercises-Part1\Problem01_SinoTheWalker\obj\Debug\Problem01_SinoTheWalker.pdb

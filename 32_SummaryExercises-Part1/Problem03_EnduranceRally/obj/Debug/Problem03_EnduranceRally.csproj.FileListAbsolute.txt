@@ -1,0 +1,5 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\32_SummaryExercises-Part1\Problem03_EnduranceRally\obj\Debug\Problem03_EnduranceRally.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\32_SummaryExercises-Part1\Problem03_EnduranceRally\bin\Debug\Problem03_EnduranceRally.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\32_SummaryExercises-Part1\Problem03_EnduranceRally\bin\Debug\Problem03_EnduranceRally.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\32_SummaryExercises-Part1\Problem03_EnduranceRally\obj\Debug\Problem03_EnduranceRally.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\32_SummaryExercises-Part1\Problem03_EnduranceRally\obj\Debug\Problem03_EnduranceRally.pdb

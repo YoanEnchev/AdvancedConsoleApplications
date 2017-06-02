@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\33_SummaryExercises-Part2\Problem01_CharityMarathon\bin\Debug\Problem01_CharityMarathon.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\33_SummaryExercises-Part2\Problem01_CharityMarathon\bin\Debug\Problem01_CharityMarathon.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\33_SummaryExercises-Part2\Problem01_CharityMarathon\obj\Debug\Problem01_CharityMarathon.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\33_SummaryExercises-Part2\Problem01_CharityMarathon\obj\Debug\Problem01_CharityMarathon.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\33_SummaryExercises-Part2\Problem01_CharityMarathon\obj\Debug\Problem01_CharityMarathon.pdb

@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\35_SummaryExcercises_Debug\Problem01_MelrahShake\bin\Debug\Problem01_MelrahShake.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\35_SummaryExcercises_Debug\Problem01_MelrahShake\bin\Debug\Problem01_MelrahShake.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\35_SummaryExcercises_Debug\Problem01_MelrahShake\obj\Debug\Problem01_MelrahShake.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\35_SummaryExcercises_Debug\Problem01_MelrahShake\obj\Debug\Problem01_MelrahShake.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\35_SummaryExcercises_Debug\Problem01_MelrahShake\obj\Debug\Problem01_MelrahShake.pdb

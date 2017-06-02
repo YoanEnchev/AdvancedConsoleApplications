@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\36_SummaryExercises-Part4\Problem03_FootballStandings\bin\Debug\Problem03_FootballStandings.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\36_SummaryExercises-Part4\Problem03_FootballStandings\bin\Debug\Problem03_FootballStandings.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\36_SummaryExercises-Part4\Problem03_FootballStandings\obj\Debug\Problem03_FootballStandings.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\36_SummaryExercises-Part4\Problem03_FootballStandings\obj\Debug\Problem03_FootballStandings.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\36_SummaryExercises-Part4\Problem03_FootballStandings\obj\Debug\Problem03_FootballStandings.pdb

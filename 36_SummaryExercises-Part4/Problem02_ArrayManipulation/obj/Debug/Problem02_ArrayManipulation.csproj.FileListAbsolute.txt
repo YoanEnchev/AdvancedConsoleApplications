@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\36_SummaryExercises-Part4\Problem02_ArrayManipulation\bin\Debug\Problem02_ArrayManipulation.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\36_SummaryExercises-Part4\Problem02_ArrayManipulation\bin\Debug\Problem02_ArrayManipulation.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\36_SummaryExercises-Part4\Problem02_ArrayManipulation\obj\Debug\Problem02_ArrayManipulation.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\36_SummaryExercises-Part4\Problem02_ArrayManipulation\obj\Debug\Problem02_ArrayManipulation.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\36_SummaryExercises-Part4\Problem02_ArrayManipulation\obj\Debug\Problem02_ArrayManipulation.pdb

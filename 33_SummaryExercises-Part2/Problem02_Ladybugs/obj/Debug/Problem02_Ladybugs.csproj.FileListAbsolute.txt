@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\33_SummaryExercises-Part2\Problem02_Ladybugs\bin\Debug\Problem02_Ladybugs.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\33_SummaryExercises-Part2\Problem02_Ladybugs\bin\Debug\Problem02_Ladybugs.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\33_SummaryExercises-Part2\Problem02_Ladybugs\obj\Debug\Problem02_Ladybugs.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\33_SummaryExercises-Part2\Problem02_Ladybugs\obj\Debug\Problem02_Ladybugs.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\33_SummaryExercises-Part2\Problem02_Ladybugs\obj\Debug\Problem02_Ladybugs.pdb

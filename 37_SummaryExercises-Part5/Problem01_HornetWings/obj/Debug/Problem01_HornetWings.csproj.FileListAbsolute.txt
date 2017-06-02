@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\37_SummaryExercises-Part5\Problem01_HornetWings\bin\Debug\Problem01_HornetWings.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\37_SummaryExercises-Part5\Problem01_HornetWings\bin\Debug\Problem01_HornetWings.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\37_SummaryExercises-Part5\Problem01_HornetWings\obj\Debug\Problem01_HornetWings.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\37_SummaryExercises-Part5\Problem01_HornetWings\obj\Debug\Problem01_HornetWings.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\37_SummaryExercises-Part5\Problem01_HornetWings\obj\Debug\Problem01_HornetWings.pdb

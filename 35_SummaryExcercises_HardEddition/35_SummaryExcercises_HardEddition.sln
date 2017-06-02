@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem01_MelrahShake", "Problem01_MelrahShake\Problem01_MelrahShake.csproj", "{9BB94CA3-F4C6-483A-8BF6-9DCB44F40C08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem03_CriticalBreakpoint", "Problem03_CriticalBreakpoint\Problem03_CriticalBreakpoint.csproj", "{B1DAFD73-F9EA-483E-A0DE-6155713A7118}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem04_GUnit", "Problem04_GUnit\Problem04_GUnit.csproj", "{EB79C4A6-7A24-498D-968E-D331936E329B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BB94CA3-F4C6-483A-8BF6-9DCB44F40C08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BB94CA3-F4C6-483A-8BF6-9DCB44F40C08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BB94CA3-F4C6-483A-8BF6-9DCB44F40C08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BB94CA3-F4C6-483A-8BF6-9DCB44F40C08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1DAFD73-F9EA-483E-A0DE-6155713A7118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1DAFD73-F9EA-483E-A0DE-6155713A7118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1DAFD73-F9EA-483E-A0DE-6155713A7118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1DAFD73-F9EA-483E-A0DE-6155713A7118}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB79C4A6-7A24-498D-968E-D331936E329B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB79C4A6-7A24-498D-968E-D331936E329B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB79C4A6-7A24-498D-968E-D331936E329B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB79C4A6-7A24-498D-968E-D331936E329B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

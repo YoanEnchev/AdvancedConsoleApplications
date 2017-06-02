@@ -1,0 +1,5 @@
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\34_SummaryExercises_Part3\Problem04_Files\bin\Debug\Problem04_Files.exe
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\34_SummaryExercises_Part3\Problem04_Files\bin\Debug\Problem04_Files.pdb
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\34_SummaryExercises_Part3\Problem04_Files\obj\Debug\Problem04_Files.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\34_SummaryExercises_Part3\Problem04_Files\obj\Debug\Problem04_Files.exe
+C:\Users\Joan_1998\Documents\Visual Studio 2015\Projects\34_SummaryExercises_Part3\Problem04_Files\obj\Debug\Problem04_Files.pdb

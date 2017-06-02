@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\34_SummaryExercises_Part3\Problem02_CommandInterpreter\bin\Debug\Problem02_CommandInterpreter.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\34_SummaryExercises_Part3\Problem02_CommandInterpreter\bin\Debug\Problem02_CommandInterpreter.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\34_SummaryExercises_Part3\Problem02_CommandInterpreter\obj\Debug\Problem02_CommandInterpreter.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\34_SummaryExercises_Part3\Problem02_CommandInterpreter\obj\Debug\Problem02_CommandInterpreter.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\34_SummaryExercises_Part3\Problem02_CommandInterpreter\obj\Debug\Problem02_CommandInterpreter.pdb

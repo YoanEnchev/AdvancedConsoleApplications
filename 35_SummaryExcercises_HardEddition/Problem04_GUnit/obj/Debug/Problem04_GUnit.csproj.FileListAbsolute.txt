@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\35_SummaryExcercises_Debug\Problem04_GUnit\bin\Debug\Problem04_GUnit.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\35_SummaryExcercises_Debug\Problem04_GUnit\bin\Debug\Problem04_GUnit.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\35_SummaryExcercises_Debug\Problem04_GUnit\obj\Debug\Problem04_GUnit.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\35_SummaryExcercises_Debug\Problem04_GUnit\obj\Debug\Problem04_GUnit.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\35_SummaryExcercises_Debug\Problem04_GUnit\obj\Debug\Problem04_GUnit.pdb

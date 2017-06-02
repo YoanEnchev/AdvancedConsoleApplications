@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\36_SummaryExercises-Part4\Problem01_SweetDessert\bin\Debug\Problem01_SweetDessert.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\36_SummaryExercises-Part4\Problem01_SweetDessert\bin\Debug\Problem01_SweetDessert.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\36_SummaryExercises-Part4\Problem01_SweetDessert\obj\Debug\Problem01_SweetDessert.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\36_SummaryExercises-Part4\Problem01_SweetDessert\obj\Debug\Problem01_SweetDessert.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\36_SummaryExercises-Part4\Problem01_SweetDessert\obj\Debug\Problem01_SweetDessert.pdb

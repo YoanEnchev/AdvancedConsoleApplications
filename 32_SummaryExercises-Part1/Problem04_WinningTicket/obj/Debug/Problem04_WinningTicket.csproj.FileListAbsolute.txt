@@ -1,0 +1,5 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\32_SummaryExercises-Part1\Problem04_WinningTicket\bin\Debug\Problem04_WinningTicket.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\32_SummaryExercises-Part1\Problem04_WinningTicket\bin\Debug\Problem04_WinningTicket.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\32_SummaryExercises-Part1\Problem04_WinningTicket\obj\Debug\Problem04_WinningTicket.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\32_SummaryExercises-Part1\Problem04_WinningTicket\obj\Debug\Problem04_WinningTicket.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\32_SummaryExercises-Part1\Problem04_WinningTicket\obj\Debug\Problem04_WinningTicket.pdb

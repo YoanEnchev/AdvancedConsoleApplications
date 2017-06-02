@@ -1,0 +1,5 @@
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\36_SummaryExercises-Part4\Problem04_CubicMessages\bin\Debug\Problem04_CubicMessages.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\36_SummaryExercises-Part4\Problem04_CubicMessages\bin\Debug\Problem04_CubicMessages.pdb
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\36_SummaryExercises-Part4\Problem04_CubicMessages\obj\Debug\Problem04_CubicMessages.csprojResolveAssemblyReference.cache
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\36_SummaryExercises-Part4\Problem04_CubicMessages\obj\Debug\Problem04_CubicMessages.exe
+C:\Users\Joan_1998\documents\visual studio 2015\Projects\36_SummaryExercises-Part4\Problem04_CubicMessages\obj\Debug\Problem04_CubicMessages.pdb

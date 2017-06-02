@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\35_SummaryExcercises_Debug\Problem03_CriticalBreakpoint\bin\Debug\Problem03_CriticalBreakpoint.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\35_SummaryExcercises_Debug\Problem03_CriticalBreakpoint\bin\Debug\Problem03_CriticalBreakpoint.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\35_SummaryExcercises_Debug\Problem03_CriticalBreakpoint\obj\Debug\Problem03_CriticalBreakpoint.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\35_SummaryExcercises_Debug\Problem03_CriticalBreakpoint\obj\Debug\Problem03_CriticalBreakpoint.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\35_SummaryExcercises_Debug\Problem03_CriticalBreakpoint\obj\Debug\Problem03_CriticalBreakpoint.pdb

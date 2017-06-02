@@ -1,0 +1,5 @@
+c:\users\joan_1998\documents\visual studio 2015\Projects\34_SummaryExercises_Part3\Problem01_SoftuniCoffeeOrders\bin\Debug\Problem01_SoftuniCoffeeOrders.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\34_SummaryExercises_Part3\Problem01_SoftuniCoffeeOrders\bin\Debug\Problem01_SoftuniCoffeeOrders.pdb
+c:\users\joan_1998\documents\visual studio 2015\Projects\34_SummaryExercises_Part3\Problem01_SoftuniCoffeeOrders\obj\Debug\Problem01_SoftuniCoffeeOrders.csprojResolveAssemblyReference.cache
+c:\users\joan_1998\documents\visual studio 2015\Projects\34_SummaryExercises_Part3\Problem01_SoftuniCoffeeOrders\obj\Debug\Problem01_SoftuniCoffeeOrders.exe
+c:\users\joan_1998\documents\visual studio 2015\Projects\34_SummaryExercises_Part3\Problem01_SoftuniCoffeeOrders\obj\Debug\Problem01_SoftuniCoffeeOrders.pdb
